@@ -1,2 +1,2 @@
 # LeetCode-Swift
-✅ LeetCode Solution by Go, 100% test coverage
+✅ LeetCode Solution by Swift, 100% test coverage
