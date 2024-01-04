@@ -23,6 +23,9 @@
 		602877AF2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877AE2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift */; };
 		602877B12B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877B02B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift */; };
 		602877B22B45B5A6005457FE /* Easy_0009_Palindrome_Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877AE2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift */; };
+		602877E82B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877E72B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift */; };
+		602877EA2B47128B005457FE /* Easy_0013_Roman_To_Integer_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877E92B47128B005457FE /* Easy_0013_Roman_To_Integer_Test.swift */; };
+		602877EB2B4712EE005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877E72B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +64,8 @@
 		6013D35C2B4469F70086DDD5 /* Easy_0001_Two_Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0001_Two_Sum.swift; sourceTree = "<group>"; };
 		602877AE2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0009_Palindrome_Number.swift; sourceTree = "<group>"; };
 		602877B02B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0009_Palindrome_Number_Test.swift; sourceTree = "<group>"; };
+		602877E72B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0013_Roman_To_Integer.swift; sourceTree = "<group>"; };
+		602877E92B47128B005457FE /* Easy_0013_Roman_To_Integer_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0013_Roman_To_Integer_Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +152,7 @@
 			children = (
 				6013D3562B4468780086DDD5 /* Easy_0001_Two_Sum_Test.swift */,
 				602877B02B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift */,
+				602877E92B47128B005457FE /* Easy_0013_Roman_To_Integer_Test.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -164,6 +170,7 @@
 			children = (
 				6013D35C2B4469F70086DDD5 /* Easy_0001_Two_Sum.swift */,
 				602877AE2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift */,
+				602877E72B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -301,6 +308,7 @@
 			files = (
 				602877AF2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift in Sources */,
 				6013D32A2B4467FF0086DDD5 /* ViewController.swift in Sources */,
+				602877E82B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */,
 				6013D35D2B4469F70086DDD5 /* Easy_0001_Two_Sum.swift in Sources */,
 				6013D3262B4467FF0086DDD5 /* AppDelegate.swift in Sources */,
 				6013D3282B4467FF0086DDD5 /* SceneDelegate.swift in Sources */,
@@ -313,9 +321,11 @@
 			files = (
 				602877B22B45B5A6005457FE /* Easy_0009_Palindrome_Number.swift in Sources */,
 				6013D35A2B4469860086DDD5 /* SolutionsTestsHelper.swift in Sources */,
+				602877EA2B47128B005457FE /* Easy_0013_Roman_To_Integer_Test.swift in Sources */,
 				6013D35E2B446A660086DDD5 /* Easy_0001_Two_Sum.swift in Sources */,
 				6013D3572B4468780086DDD5 /* Easy_0001_Two_Sum_Test.swift in Sources */,
 				602877B12B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift in Sources */,
+				602877EB2B4712EE005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */,
 				6013D33D2B4468010086DDD5 /* LeetCodeSolutionTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
