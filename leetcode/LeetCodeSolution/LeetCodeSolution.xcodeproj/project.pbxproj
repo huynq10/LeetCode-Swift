@@ -39,6 +39,9 @@
 		60BA66102B4DB0B0001E5B88 /* Easy_0872_Leaf_Similar_Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BA660F2B4DB0B0001E5B88 /* Easy_0872_Leaf_Similar_Trees.swift */; };
 		60BA66112B4DB0B0001E5B88 /* Easy_0872_Leaf_Similar_Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BA660F2B4DB0B0001E5B88 /* Easy_0872_Leaf_Similar_Trees.swift */; };
 		60BA66142B4DB32F001E5B88 /* Easy_0872_Leaf_Similar_Trees_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BA66122B4DB32F001E5B88 /* Easy_0872_Leaf_Similar_Trees_Test.swift */; };
+		60BA662A2B4EF9C2001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BA66292B4EF9C2001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.swift */; };
+		60BA662B2B4EF9C2001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BA66292B4EF9C2001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.swift */; };
+		60BA662F2B4EFA11001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BA662D2B4EFA11001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected_Test.swift */; };
 		60FDB51F2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FDB51E2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift */; };
 		60FDB5202B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FDB51E2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift */; };
 		60FDB5232B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FDB5212B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift */; };
@@ -91,6 +94,8 @@
 		60BA660C2B4DA8C0001E5B88 /* Easy_0136_Single_Number_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0136_Single_Number_Test.swift; sourceTree = "<group>"; };
 		60BA660F2B4DB0B0001E5B88 /* Easy_0872_Leaf_Similar_Trees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0872_Leaf_Similar_Trees.swift; sourceTree = "<group>"; };
 		60BA66122B4DB32F001E5B88 /* Easy_0872_Leaf_Similar_Trees_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0872_Leaf_Similar_Trees_Test.swift; sourceTree = "<group>"; };
+		60BA66292B4EF9C2001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.swift; sourceTree = "<group>"; };
+		60BA662D2B4EFA11001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected_Test.swift; sourceTree = "<group>"; };
 		60FDB51E2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0027_Remove_Element.swift; sourceTree = "<group>"; };
 		60FDB5212B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0027_Remove_Element_Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -143,6 +148,7 @@
 		6013D3242B4467FF0086DDD5 /* LeetCodeSolution */ = {
 			isa = PBXGroup;
 			children = (
+				60BA66282B4EF983001E5B88 /* Medium */,
 				6013D35B2B4469E60086DDD5 /* Easy */,
 				6013D3252B4467FF0086DDD5 /* AppDelegate.swift */,
 				6013D3272B4467FF0086DDD5 /* SceneDelegate.swift */,
@@ -158,6 +164,7 @@
 		6013D33B2B4468010086DDD5 /* LeetCodeSolutionTests */ = {
 			isa = PBXGroup;
 			children = (
+				60BA662C2B4EFA05001E5B88 /* Medium */,
 				6013D3582B4469630086DDD5 /* Utils */,
 				6013D3552B4468150086DDD5 /* Easy */,
 				6013D33C2B4468010086DDD5 /* LeetCodeSolutionTests.swift */,
@@ -211,6 +218,22 @@
 				60BA660F2B4DB0B0001E5B88 /* Easy_0872_Leaf_Similar_Trees.swift */,
 			);
 			path = Easy;
+			sourceTree = "<group>";
+		};
+		60BA66282B4EF983001E5B88 /* Medium */ = {
+			isa = PBXGroup;
+			children = (
+				60BA66292B4EF9C2001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.swift */,
+			);
+			path = Medium;
+			sourceTree = "<group>";
+		};
+		60BA662C2B4EFA05001E5B88 /* Medium */ = {
+			isa = PBXGroup;
+			children = (
+				60BA662D2B4EFA11001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected_Test.swift */,
+			);
+			path = Medium;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -354,6 +377,7 @@
 				6013D3262B4467FF0086DDD5 /* AppDelegate.swift in Sources */,
 				60BA660A2B4DA844001E5B88 /* Easy_0136_Single_Number.swift in Sources */,
 				60A4FFAA2B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift in Sources */,
+				60BA662A2B4EF9C2001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.swift in Sources */,
 				6013D3282B4467FF0086DDD5 /* SceneDelegate.swift in Sources */,
 				60FDB51F2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift in Sources */,
 			);
@@ -365,6 +389,7 @@
 			files = (
 				60BA660E2B4DA8C0001E5B88 /* Easy_0136_Single_Number_Test.swift in Sources */,
 				60BA66112B4DB0B0001E5B88 /* Easy_0872_Leaf_Similar_Trees.swift in Sources */,
+				60BA662B2B4EF9C2001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.swift in Sources */,
 				602877B22B45B5A6005457FE /* Easy_0009_Palindrome_Number.swift in Sources */,
 				6013D35A2B4469860086DDD5 /* SolutionsTestsHelper.swift in Sources */,
 				60A8EB1D2B49B96A0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array.swift in Sources */,
@@ -373,6 +398,7 @@
 				6013D3572B4468780086DDD5 /* Easy_0001_Two_Sum_Test.swift in Sources */,
 				60A8EB1F2B49B9CB0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array_Test.swift in Sources */,
 				60FDB5202B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift in Sources */,
+				60BA662F2B4EFA11001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected_Test.swift in Sources */,
 				602877B12B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift in Sources */,
 				60A4FFAE2B4C5C2C00A2C56E /* Easy_0070_Climbing_Stairs_Test.swift in Sources */,
 				60BA66142B4DB32F001E5B88 /* Easy_0872_Leaf_Similar_Trees_Test.swift in Sources */,
