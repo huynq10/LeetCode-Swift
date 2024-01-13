@@ -46,7 +46,7 @@
  */
 import Foundation
 
-private extension String {
+extension String {
     subscript (index: Int) -> Character {
         return self[self.index(self.startIndex, offsetBy: index)]
     }

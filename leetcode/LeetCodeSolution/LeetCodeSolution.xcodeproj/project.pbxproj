@@ -48,6 +48,9 @@
 		60BD83842B515F6600991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BD83832B515F6600991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike.swift */; };
 		60BD83852B515F6600991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BD83832B515F6600991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike.swift */; };
 		60BD83872B51612C00991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BD83862B51612C00991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike_Test.swift */; };
+		60BD83892B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BD83882B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift */; };
+		60BD838A2B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BD83882B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift */; };
+		60BD838C2B521F7A00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BD838B2B521F7A00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift */; };
 		60FDB51F2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FDB51E2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift */; };
 		60FDB5202B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FDB51E2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift */; };
 		60FDB5232B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FDB5212B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift */; };
@@ -106,6 +109,8 @@
 		60BA662D2B4EFA11001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected_Test.swift; sourceTree = "<group>"; };
 		60BD83832B515F6600991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_1704_Determine_if_String_Halves_Are_Alike.swift; sourceTree = "<group>"; };
 		60BD83862B51612C00991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_1704_Determine_if_String_Halves_Are_Alike_Test.swift; sourceTree = "<group>"; };
+		60BD83882B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift; sourceTree = "<group>"; };
+		60BD838B2B521F7A00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift; sourceTree = "<group>"; };
 		60FDB51E2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0027_Remove_Element.swift; sourceTree = "<group>"; };
 		60FDB5212B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0027_Remove_Element_Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -237,6 +242,7 @@
 			children = (
 				600DABF52B5037FB00911CD9 /* Medium_1026_Maximum_Difference_Between_Node_and_Ancestor.swift */,
 				60BA66292B4EF9C2001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.swift */,
+				60BD83882B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -246,6 +252,7 @@
 			children = (
 				600DABF82B503E5400911CD9 /* Medium_1026_Maximum_Difference_Between_Node_and_Ancestor_Test.swift */,
 				60BA662D2B4EFA11001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected_Test.swift */,
+				60BD838B2B521F7A00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -392,6 +399,7 @@
 				6013D3262B4467FF0086DDD5 /* AppDelegate.swift in Sources */,
 				60BA660A2B4DA844001E5B88 /* Easy_0136_Single_Number.swift in Sources */,
 				60A4FFAA2B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift in Sources */,
+				60BD83892B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift in Sources */,
 				60BA662A2B4EF9C2001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.swift in Sources */,
 				60BD83842B515F6600991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike.swift in Sources */,
 				6013D3282B4467FF0086DDD5 /* SceneDelegate.swift in Sources */,
@@ -410,7 +418,9 @@
 				6013D35A2B4469860086DDD5 /* SolutionsTestsHelper.swift in Sources */,
 				60A8EB1D2B49B96A0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array.swift in Sources */,
 				60BD83872B51612C00991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike_Test.swift in Sources */,
+				60BD838A2B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift in Sources */,
 				602877EA2B47128B005457FE /* Easy_0013_Roman_To_Integer_Test.swift in Sources */,
+				60BD838C2B521F7A00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift in Sources */,
 				6013D35E2B446A660086DDD5 /* Easy_0001_Two_Sum.swift in Sources */,
 				6013D3572B4468780086DDD5 /* Easy_0001_Two_Sum_Test.swift in Sources */,
 				60A8EB1F2B49B9CB0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array_Test.swift in Sources */,
