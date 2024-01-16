@@ -27,6 +27,8 @@
 		6013D35A2B4469860086DDD5 /* SolutionsTestsHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6013D3592B4469860086DDD5 /* SolutionsTestsHelper.swift */; };
 		6013D35D2B4469F70086DDD5 /* Easy_0001_Two_Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6013D35C2B4469F70086DDD5 /* Easy_0001_Two_Sum.swift */; };
 		6013D35E2B446A660086DDD5 /* Easy_0001_Two_Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6013D35C2B4469F70086DDD5 /* Easy_0001_Two_Sum.swift */; };
+		601C4A812B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 601C4A802B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift */; };
+		601C4A822B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 601C4A802B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift */; };
 		602877AF2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877AE2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift */; };
 		602877B12B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877B02B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift */; };
 		602877B22B45B5A6005457FE /* Easy_0009_Palindrome_Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877AE2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift */; };
@@ -104,6 +106,7 @@
 		6013D3562B4468780086DDD5 /* Easy_0001_Two_Sum_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0001_Two_Sum_Test.swift; sourceTree = "<group>"; };
 		6013D3592B4469860086DDD5 /* SolutionsTestsHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolutionsTestsHelper.swift; sourceTree = "<group>"; };
 		6013D35C2B4469F70086DDD5 /* Easy_0001_Two_Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0001_Two_Sum.swift; sourceTree = "<group>"; };
+		601C4A802B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Medium_0380_Insert_Delete_GetRandom_O(1).swift"; sourceTree = "<group>"; };
 		602877AE2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0009_Palindrome_Number.swift; sourceTree = "<group>"; };
 		602877B02B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0009_Palindrome_Number_Test.swift; sourceTree = "<group>"; };
 		602877E72B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0013_Roman_To_Integer.swift; sourceTree = "<group>"; };
@@ -262,6 +265,7 @@
 				60BD83882B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift */,
 				60F6B00C2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift */,
 				600CCF802B556E3B000F2508 /* Medium_2225_Find_Players_With_Zero_or_One_Losses.swift */,
+				601C4A802B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -411,6 +415,7 @@
 			files = (
 				60BA66102B4DB0B0001E5B88 /* Easy_0872_Leaf_Similar_Trees.swift in Sources */,
 				602877AF2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift in Sources */,
+				601C4A812B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */,
 				6013D32A2B4467FF0086DDD5 /* ViewController.swift in Sources */,
 				600CCF812B556E3B000F2508 /* Medium_2225_Find_Players_With_Zero_or_One_Losses.swift in Sources */,
 				60A8EB1C2B49B96A0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array.swift in Sources */,
@@ -461,6 +466,7 @@
 				600CCF822B556E3B000F2508 /* Medium_2225_Find_Players_With_Zero_or_One_Losses.swift in Sources */,
 				60FDB5232B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift in Sources */,
 				60F6B0132B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift in Sources */,
+				601C4A822B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */,
 				602877EB2B4712EE005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */,
 				60F6B00F2B53B01C002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift in Sources */,
 				60BD83852B515F6600991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike.swift in Sources */,
