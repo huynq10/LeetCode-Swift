@@ -7,8 +7,8 @@
 
 import XCTest
 
-class Medium_0931_Sum_of_Subarray_Minimums_Test : XCTestCase {
-    let solution = Medium_0931_Sum_of_Subarray_Minimums()
+class Medium_0907_Sum_of_Subarray_Minimums_Test : XCTestCase {
+    let solution = Medium_0907_Sum_of_Subarray_Minimums()
     
     func test01() {
         let arr = [3,1,2,4]
