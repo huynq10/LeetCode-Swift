@@ -63,6 +63,9 @@
 		60B59BD12B5DEB64009A801D /* Easy_0645_Set_Mismatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B59BD02B5DEB64009A801D /* Easy_0645_Set_Mismatch.swift */; };
 		60B59BD22B5DEB64009A801D /* Easy_0645_Set_Mismatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B59BD02B5DEB64009A801D /* Easy_0645_Set_Mismatch.swift */; };
 		60B59BD42B5DEDD5009A801D /* Easy_0645_Set_Mismatch_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B59BD32B5DEDD5009A801D /* Easy_0645_Set_Mismatch_Test.swift */; };
+		60B88F502B6011CE00553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B88F4F2B6011CE00553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.swift */; };
+		60B88F512B6011CE00553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B88F4F2B6011CE00553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.swift */; };
+		60B88F542B60155400553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B88F522B60155400553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters_Test.swift */; };
 		60BA660A2B4DA844001E5B88 /* Easy_0136_Single_Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BA66092B4DA844001E5B88 /* Easy_0136_Single_Number.swift */; };
 		60BA660B2B4DA844001E5B88 /* Easy_0136_Single_Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BA66092B4DA844001E5B88 /* Easy_0136_Single_Number.swift */; };
 		60BA660E2B4DA8C0001E5B88 /* Easy_0136_Single_Number_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BA660C2B4DA8C0001E5B88 /* Easy_0136_Single_Number_Test.swift */; };
@@ -78,6 +81,9 @@
 		60BD83892B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BD83882B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift */; };
 		60BD838A2B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BD83882B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift */; };
 		60BD838C2B521F7A00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BD838B2B521F7A00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift */; };
+		60CCBE702B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60CCBE6F2B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift */; };
+		60CCBE712B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60CCBE6F2B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift */; };
+		60CCBE732B5EBC79003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60CCBE722B5EBC79003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty_Test.swift */; };
 		60F6B00D2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F6B00C2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift */; };
 		60F6B00F2B53B01C002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F6B00E2B53B01B002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift */; };
 		60F6B0102B53B044002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F6B00C2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift */; };
@@ -152,6 +158,8 @@
 		60B59BCE2B5D85AF009A801D /* Hard_0041_First_Missing_Positive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard_0041_First_Missing_Positive.swift; sourceTree = "<group>"; };
 		60B59BD02B5DEB64009A801D /* Easy_0645_Set_Mismatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0645_Set_Mismatch.swift; sourceTree = "<group>"; };
 		60B59BD32B5DEDD5009A801D /* Easy_0645_Set_Mismatch_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0645_Set_Mismatch_Test.swift; sourceTree = "<group>"; };
+		60B88F4F2B6011CE00553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.swift; sourceTree = "<group>"; };
+		60B88F522B60155400553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters_Test.swift; sourceTree = "<group>"; };
 		60BA66092B4DA844001E5B88 /* Easy_0136_Single_Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0136_Single_Number.swift; sourceTree = "<group>"; };
 		60BA660C2B4DA8C0001E5B88 /* Easy_0136_Single_Number_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0136_Single_Number_Test.swift; sourceTree = "<group>"; };
 		60BA660F2B4DB0B0001E5B88 /* Easy_0872_Leaf_Similar_Trees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0872_Leaf_Similar_Trees.swift; sourceTree = "<group>"; };
@@ -162,6 +170,8 @@
 		60BD83862B51612C00991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_1704_Determine_if_String_Halves_Are_Alike_Test.swift; sourceTree = "<group>"; };
 		60BD83882B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift; sourceTree = "<group>"; };
 		60BD838B2B521F7A00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift; sourceTree = "<group>"; };
+		60CCBE6F2B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift; sourceTree = "<group>"; };
+		60CCBE722B5EBC79003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty_Test.swift; sourceTree = "<group>"; };
 		60F6B00C2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1657_Determine_if_Two_Strings_Are_Close.swift; sourceTree = "<group>"; };
 		60F6B00E2B53B01B002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift; sourceTree = "<group>"; };
 		60F6B0112B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0455_Assign_Cookies.swift; sourceTree = "<group>"; };
@@ -321,6 +331,8 @@
 				60B59BBE2B5D279C009A801D /* Medium_0198_House_Robber.swift */,
 				60B59BC32B5D7515009A801D /* Medium_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.swift */,
 				60B59BC82B5D80E4009A801D /* Medium_1375_Number_of_Times_Binary_String_Is_Prefix_Aligned.swift */,
+				60CCBE6F2B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift */,
+				60B88F4F2B6011CE00553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -338,6 +350,8 @@
 				60B59BC12B5D2F50009A801D /* Medium_0198_House_Robber_Test.swift */,
 				60B59BC62B5D766F009A801D /* Medium_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions_Test.swift */,
 				60B59BCB2B5D81E0009A801D /* Medium_1375_Number_of_Times_Binary_String_Is_Prefix_Aligned_Test.swift */,
+				60CCBE722B5EBC79003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty_Test.swift */,
+				60B88F522B60155400553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters_Test.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -477,6 +491,7 @@
 				60B59BC42B5D7515009A801D /* Medium_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.swift in Sources */,
 				60B59BB42B5A94EB009A801D /* Medium_0931_Minimum_Falling_Path_Sum.swift in Sources */,
 				602877AF2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift in Sources */,
+				60B88F502B6011CE00553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.swift in Sources */,
 				601C4A812B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */,
 				6013D32A2B4467FF0086DDD5 /* ViewController.swift in Sources */,
 				60B59BC92B5D80E4009A801D /* Medium_1375_Number_of_Times_Binary_String_Is_Prefix_Aligned.swift in Sources */,
@@ -485,6 +500,7 @@
 				60A8EB1C2B49B96A0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array.swift in Sources */,
 				60F6B00D2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift in Sources */,
 				601C4A842B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift in Sources */,
+				60CCBE702B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift in Sources */,
 				602877E82B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */,
 				600DABF62B5037FB00911CD9 /* Medium_1026_Maximum_Difference_Between_Node_and_Ancestor.swift in Sources */,
 				601130B52B4827F400E78FE6 /* Easy_0021_Merge_Two_Sorted_Lists.swift in Sources */,
@@ -511,6 +527,7 @@
 				60F6B0162B53BF43002500B6 /* Easy_0455_Assign_Cookies_Test.swift in Sources */,
 				60B59BC02B5D279C009A801D /* Medium_0198_House_Robber.swift in Sources */,
 				60B59BB52B5A94EB009A801D /* Medium_0931_Minimum_Falling_Path_Sum.swift in Sources */,
+				60CCBE732B5EBC79003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty_Test.swift in Sources */,
 				60BA660E2B4DA8C0001E5B88 /* Easy_0136_Single_Number_Test.swift in Sources */,
 				60B59BCA2B5D80E4009A801D /* Medium_1375_Number_of_Times_Binary_String_Is_Prefix_Aligned.swift in Sources */,
 				60B59BCC2B5D81E0009A801D /* Medium_1375_Number_of_Times_Binary_String_Is_Prefix_Aligned_Test.swift in Sources */,
@@ -521,6 +538,7 @@
 				60B59BBD2B5C3168009A801D /* Medium_0907_Sum_of_Subarray_Minimums_Test.swift in Sources */,
 				602877B22B45B5A6005457FE /* Easy_0009_Palindrome_Number.swift in Sources */,
 				6013D35A2B4469860086DDD5 /* SolutionsTestsHelper.swift in Sources */,
+				60B88F512B6011CE00553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.swift in Sources */,
 				60A8EB1D2B49B96A0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array.swift in Sources */,
 				60BD83872B51612C00991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike_Test.swift in Sources */,
 				60BD838A2B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift in Sources */,
@@ -544,6 +562,7 @@
 				60BA660B2B4DA844001E5B88 /* Easy_0136_Single_Number.swift in Sources */,
 				600CCF822B556E3B000F2508 /* Medium_2225_Find_Players_With_Zero_or_One_Losses.swift in Sources */,
 				60FDB5232B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift in Sources */,
+				60B88F542B60155400553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters_Test.swift in Sources */,
 				60F6B0132B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift in Sources */,
 				601C4A822B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */,
 				602877EB2B4712EE005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */,
@@ -555,6 +574,7 @@
 				6013D33D2B4468010086DDD5 /* LeetCodeSolutionTests.swift in Sources */,
 				600DABF92B503E5400911CD9 /* Medium_1026_Maximum_Difference_Between_Node_and_Ancestor_Test.swift in Sources */,
 				60B59BD22B5DEB64009A801D /* Easy_0645_Set_Mismatch.swift in Sources */,
+				60CCBE712B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
