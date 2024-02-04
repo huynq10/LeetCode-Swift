@@ -26,19 +26,19 @@ import Foundation
 
 class Medium_0075_Sort_Colors {
     func sortColors(_ nums: inout [Int]) {
-        var reds = [Int]()
-        var whites = [Int]()
-        var blues = [Int]()
-        
-        for num in nums {
-            switch num {
-            case 0: reds.append(0)
-            case 1: whites.append(1)
-            case 2: blues.append(2)
-            default: fatalError()
+        var redIndex = 0
+        var blueIndex = nums.count - 1
+        var i = 0
+        while i <= blueIndex {
+            if nums[i] == 0 && i > redIndex {
+                nums.swapAt(i, redIndex)
+                redIndex += 1
+            } else if nums[i] == 2 && i < blueIndex {
+                nums.swapAt(i, blueIndex)
+                blueIndex += 1
+            } else {
+                i += 1
             }
         }
-        
-        nums = reds + whites + blues
     }
 }
