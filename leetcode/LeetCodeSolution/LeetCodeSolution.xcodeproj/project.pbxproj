@@ -42,6 +42,9 @@
 		602877E82B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877E72B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift */; };
 		602877EA2B47128B005457FE /* Easy_0013_Roman_To_Integer_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877E92B47128B005457FE /* Easy_0013_Roman_To_Integer_Test.swift */; };
 		602877EB2B4712EE005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877E72B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift */; };
+		6039534F2B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6039534E2B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift */; };
+		603953502B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6039534E2B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift */; };
+		603953522B712D6F0053F1E3 /* Easy_0387_First_Unique_Character_in_a_String_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603953512B712D6F0053F1E3 /* Easy_0387_First_Unique_Character_in_a_String_Test.swift */; };
 		603AECAF2B6FF3080005286D /* Medium_0075_Sort_Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603AECAE2B6FF3080005286D /* Medium_0075_Sort_Colors.swift */; };
 		603AECB02B6FF30B0005286D /* Medium_0075_Sort_Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603AECAE2B6FF3080005286D /* Medium_0075_Sort_Colors.swift */; };
 		603AECB22B6FF3330005286D /* Medium_0075_Sort_Colors_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603AECB12B6FF3330005286D /* Medium_0075_Sort_Colors_Test.swift */; };
@@ -155,6 +158,8 @@
 		602877B02B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0009_Palindrome_Number_Test.swift; sourceTree = "<group>"; };
 		602877E72B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0013_Roman_To_Integer.swift; sourceTree = "<group>"; };
 		602877E92B47128B005457FE /* Easy_0013_Roman_To_Integer_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0013_Roman_To_Integer_Test.swift; sourceTree = "<group>"; };
+		6039534E2B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0387_First_Unique_Character_in_a_String.swift; sourceTree = "<group>"; };
+		603953512B712D6F0053F1E3 /* Easy_0387_First_Unique_Character_in_a_String_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0387_First_Unique_Character_in_a_String_Test.swift; sourceTree = "<group>"; };
 		603AECAE2B6FF3080005286D /* Medium_0075_Sort_Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0075_Sort_Colors.swift; sourceTree = "<group>"; };
 		603AECB12B6FF3330005286D /* Medium_0075_Sort_Colors_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0075_Sort_Colors_Test.swift; sourceTree = "<group>"; };
 		6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0232_Implement_Queue_using_Stacks.swift; sourceTree = "<group>"; };
@@ -295,6 +300,7 @@
 				60F6B0142B53BF43002500B6 /* Easy_0455_Assign_Cookies_Test.swift */,
 				601C4A862B57580200A5E210 /* Easy_1207_Unique_Number_of_Occurrences_Test.swift */,
 				60B59BD32B5DEDD5009A801D /* Easy_0645_Set_Mismatch_Test.swift */,
+				603953512B712D6F0053F1E3 /* Easy_0387_First_Unique_Character_in_a_String_Test.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -324,6 +330,7 @@
 				601C4A832B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift */,
 				60B59BD02B5DEB64009A801D /* Easy_0645_Set_Mismatch.swift */,
 				6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */,
+				6039534E2B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -516,6 +523,7 @@
 				60B59BB42B5A94EB009A801D /* Medium_0931_Minimum_Falling_Path_Sum.swift in Sources */,
 				602877AF2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift in Sources */,
 				60B88F502B6011CE00553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.swift in Sources */,
+				6039534F2B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift in Sources */,
 				600E93302B69623B003163AE /* Medium_0150_Evaluate_Reverse_Polish_Notation.swift in Sources */,
 				601C4A812B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */,
 				6013D32A2B4467FF0086DDD5 /* ViewController.swift in Sources */,
@@ -576,6 +584,7 @@
 				60BD838A2B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift in Sources */,
 				602877EA2B47128B005457FE /* Easy_0013_Roman_To_Integer_Test.swift in Sources */,
 				60BD838C2B521F7A00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift in Sources */,
+				603953502B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift in Sources */,
 				6013D35E2B446A660086DDD5 /* Easy_0001_Two_Sum.swift in Sources */,
 				60080BB42B6D974D009E8A5E /* Medium_1291_Sequential_Digits.swift in Sources */,
 				6013D3572B4468780086DDD5 /* Easy_0001_Two_Sum_Test.swift in Sources */,
@@ -609,6 +618,7 @@
 				600DABF72B5037FB00911CD9 /* Medium_1026_Maximum_Difference_Between_Node_and_Ancestor.swift in Sources */,
 				6013D33D2B4468010086DDD5 /* LeetCodeSolutionTests.swift in Sources */,
 				600DABF92B503E5400911CD9 /* Medium_1026_Maximum_Difference_Between_Node_and_Ancestor_Test.swift in Sources */,
+				603953522B712D6F0053F1E3 /* Easy_0387_First_Unique_Character_in_a_String_Test.swift in Sources */,
 				60B59BD22B5DEB64009A801D /* Easy_0645_Set_Mismatch.swift in Sources */,
 				60CCBE712B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift in Sources */,
 			);
