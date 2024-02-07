@@ -56,6 +56,9 @@
 		604E3E022B73901300502B29 /* Easy_0217_Contains_Duplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3E012B73901300502B29 /* Easy_0217_Contains_Duplicate.swift */; };
 		604E3E032B73901500502B29 /* Easy_0217_Contains_Duplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3E012B73901300502B29 /* Easy_0217_Contains_Duplicate.swift */; };
 		604E3E052B7390F600502B29 /* Easy_0217_Contains_Duplicate_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3E042B7390F600502B29 /* Easy_0217_Contains_Duplicate_Test.swift */; };
+		604E3E072B7391E900502B29 /* Easy_0242_Valid_Anagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3E062B7391E900502B29 /* Easy_0242_Valid_Anagram.swift */; };
+		604E3E082B7391E900502B29 /* Easy_0242_Valid_Anagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3E062B7391E900502B29 /* Easy_0242_Valid_Anagram.swift */; };
+		604E3E0A2B73930200502B29 /* Easy_0242_Valid_Anagram_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3E092B73930200502B29 /* Easy_0242_Valid_Anagram_Test.swift */; };
 		6098CC7A2B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */; };
 		6098CC7B2B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */; };
 		60A4FFAA2B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4FFA92B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift */; };
@@ -175,6 +178,8 @@
 		604E3DFF2B734DD200502B29 /* Medium_0451_Sort_Characters_By_Frequency_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0451_Sort_Characters_By_Frequency_Test.swift; sourceTree = "<group>"; };
 		604E3E012B73901300502B29 /* Easy_0217_Contains_Duplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0217_Contains_Duplicate.swift; sourceTree = "<group>"; };
 		604E3E042B7390F600502B29 /* Easy_0217_Contains_Duplicate_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0217_Contains_Duplicate_Test.swift; sourceTree = "<group>"; };
+		604E3E062B7391E900502B29 /* Easy_0242_Valid_Anagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0242_Valid_Anagram.swift; sourceTree = "<group>"; };
+		604E3E092B73930200502B29 /* Easy_0242_Valid_Anagram_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0242_Valid_Anagram_Test.swift; sourceTree = "<group>"; };
 		6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0232_Implement_Queue_using_Stacks.swift; sourceTree = "<group>"; };
 		60A4FFA92B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0070_Climbing_Stairs.swift; sourceTree = "<group>"; };
 		60A4FFAC2B4C5C2C00A2C56E /* Easy_0070_Climbing_Stairs_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0070_Climbing_Stairs_Test.swift; sourceTree = "<group>"; };
@@ -315,6 +320,7 @@
 				60B59BD32B5DEDD5009A801D /* Easy_0645_Set_Mismatch_Test.swift */,
 				603953512B712D6F0053F1E3 /* Easy_0387_First_Unique_Character_in_a_String_Test.swift */,
 				604E3E042B7390F600502B29 /* Easy_0217_Contains_Duplicate_Test.swift */,
+				604E3E092B73930200502B29 /* Easy_0242_Valid_Anagram_Test.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -346,6 +352,7 @@
 				6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */,
 				6039534E2B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift */,
 				604E3E012B73901300502B29 /* Easy_0217_Contains_Duplicate.swift */,
+				604E3E062B7391E900502B29 /* Easy_0242_Valid_Anagram.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -542,6 +549,7 @@
 				602877AF2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift in Sources */,
 				60B88F502B6011CE00553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.swift in Sources */,
 				6039534F2B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift in Sources */,
+				604E3E072B7391E900502B29 /* Easy_0242_Valid_Anagram.swift in Sources */,
 				600E93302B69623B003163AE /* Medium_0150_Evaluate_Reverse_Polish_Notation.swift in Sources */,
 				601C4A812B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */,
 				6013D32A2B4467FF0086DDD5 /* ViewController.swift in Sources */,
@@ -616,6 +624,7 @@
 				60B59BC52B5D7515009A801D /* Medium_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.swift in Sources */,
 				60A8EB1F2B49B9CB0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array_Test.swift in Sources */,
 				60B59BBB2B5C3135009A801D /* Medium_0907_Sum_of_Subarray_Minimums.swift in Sources */,
+				604E3E082B7391E900502B29 /* Easy_0242_Valid_Anagram.swift in Sources */,
 				60FDB5202B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift in Sources */,
 				603AECB22B6FF3330005286D /* Medium_0075_Sort_Colors_Test.swift in Sources */,
 				60F6B0102B53B044002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift in Sources */,
@@ -637,6 +646,7 @@
 				604E3DFB2B729A1E00502B29 /* Medium_0049_Group_Anagrams.swift in Sources */,
 				601C4A822B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */,
 				602877EB2B4712EE005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */,
+				604E3E0A2B73930200502B29 /* Easy_0242_Valid_Anagram_Test.swift in Sources */,
 				60F6B00F2B53B01C002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift in Sources */,
 				601C4A852B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift in Sources */,
 				60B59BC22B5D2F50009A801D /* Medium_0198_House_Robber_Test.swift in Sources */,
