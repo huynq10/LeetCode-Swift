@@ -12,13 +12,19 @@ class Medium_0451_Sort_Characters_By_Frequency {
         var map = [Character:Int]()
         s.forEach { map[$0, default: 0] += 1 }
         
+        var buckets = [[Character]](repeating: [Character](), count: s.count + 1)
+        map.forEach { char, freq in
+            buckets[freq].append(char)
+        }
+        
         var s = String()
-        let sorted = map.sorted { $0.value > $1.value }
-        sorted.forEach { character, frequency in
-            for _ in 0..<frequency {
-                s.append(character)
+        for i in (0..<buckets.count).reversed() {
+            let bucket = buckets[i]
+            for char in bucket {
+                s.append(String(repeating: char, count: i))
             }
         }
+        
         return s
     }
 }

@@ -27,4 +27,10 @@ class Medium_0451_Sort_Characters_By_Frequency_Test : XCTestCase {
         let result = solution.frequencySort(s)
         XCTAssert(result == "bbAa")
     }
+    
+    func test04() {
+        let s = "eeeee"
+        let result = solution.frequencySort(s)
+        XCTAssert(result == "eeeee")
+    }
 }
