@@ -65,6 +65,9 @@
 		604E3E112B74ED3400502B29 /* Medium_0279_Perfect_Squares.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3E102B74ED3400502B29 /* Medium_0279_Perfect_Squares.swift */; };
 		604E3E122B74ED3400502B29 /* Medium_0279_Perfect_Squares.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3E102B74ED3400502B29 /* Medium_0279_Perfect_Squares.swift */; };
 		604E3E142B74ED4800502B29 /* Medium_0279_Perfect_Squares_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3E132B74ED4800502B29 /* Medium_0279_Perfect_Squares_Test.swift */; };
+		604E3E162B75F46B00502B29 /* Medium_0368_Largest_Divisible_Subset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3E152B75F46B00502B29 /* Medium_0368_Largest_Divisible_Subset.swift */; };
+		604E3E172B75F46B00502B29 /* Medium_0368_Largest_Divisible_Subset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3E152B75F46B00502B29 /* Medium_0368_Largest_Divisible_Subset.swift */; };
+		604E3E192B75F86F00502B29 /* Medium_0368_Largest_Divisible_Subset_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3E182B75F86F00502B29 /* Medium_0368_Largest_Divisible_Subset_Test.swift */; };
 		6098CC7A2B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */; };
 		6098CC7B2B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */; };
 		60A4FFAA2B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4FFA92B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift */; };
@@ -190,6 +193,8 @@
 		604E3E0E2B73984B00502B29 /* Medium_0347_Top_K_Frequent_Elements_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0347_Top_K_Frequent_Elements_Test.swift; sourceTree = "<group>"; };
 		604E3E102B74ED3400502B29 /* Medium_0279_Perfect_Squares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0279_Perfect_Squares.swift; sourceTree = "<group>"; };
 		604E3E132B74ED4800502B29 /* Medium_0279_Perfect_Squares_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0279_Perfect_Squares_Test.swift; sourceTree = "<group>"; };
+		604E3E152B75F46B00502B29 /* Medium_0368_Largest_Divisible_Subset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0368_Largest_Divisible_Subset.swift; sourceTree = "<group>"; };
+		604E3E182B75F86F00502B29 /* Medium_0368_Largest_Divisible_Subset_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0368_Largest_Divisible_Subset_Test.swift; sourceTree = "<group>"; };
 		6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0232_Implement_Queue_using_Stacks.swift; sourceTree = "<group>"; };
 		60A4FFA92B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0070_Climbing_Stairs.swift; sourceTree = "<group>"; };
 		60A4FFAC2B4C5C2C00A2C56E /* Easy_0070_Climbing_Stairs_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0070_Climbing_Stairs_Test.swift; sourceTree = "<group>"; };
@@ -399,6 +404,7 @@
 				604E3DFC2B734B6F00502B29 /* Medium_0451_Sort_Characters_By_Frequency .swift */,
 				604E3E0B2B7395F100502B29 /* Medium_0347_Top_K_Frequent_Elements.swift */,
 				604E3E102B74ED3400502B29 /* Medium_0279_Perfect_Squares.swift */,
+				604E3E152B75F46B00502B29 /* Medium_0368_Largest_Divisible_Subset.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -422,6 +428,7 @@
 				604E3DFF2B734DD200502B29 /* Medium_0451_Sort_Characters_By_Frequency_Test.swift */,
 				604E3E0E2B73984B00502B29 /* Medium_0347_Top_K_Frequent_Elements_Test.swift */,
 				604E3E132B74ED4800502B29 /* Medium_0279_Perfect_Squares_Test.swift */,
+				604E3E182B75F86F00502B29 /* Medium_0368_Largest_Divisible_Subset_Test.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -588,6 +595,7 @@
 				60CA78482B6557E500577AEF /* Hard_0629_K_Inverse_Pairs_Array.swift in Sources */,
 				60CA78452B62C12100577AEF /* Medium_1143_Longest_Common_Subsequence.swift in Sources */,
 				6013D3262B4467FF0086DDD5 /* AppDelegate.swift in Sources */,
+				604E3E162B75F46B00502B29 /* Medium_0368_Largest_Divisible_Subset.swift in Sources */,
 				604E3DFD2B734B6F00502B29 /* Medium_0451_Sort_Characters_By_Frequency .swift in Sources */,
 				60BA660A2B4DA844001E5B88 /* Easy_0136_Single_Number.swift in Sources */,
 				60A4FFAA2B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift in Sources */,
@@ -636,6 +644,7 @@
 				60BD838C2B521F7A00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift in Sources */,
 				603953502B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift in Sources */,
 				6013D35E2B446A660086DDD5 /* Easy_0001_Two_Sum.swift in Sources */,
+				604E3E172B75F46B00502B29 /* Medium_0368_Largest_Divisible_Subset.swift in Sources */,
 				604E3DFE2B734B6F00502B29 /* Medium_0451_Sort_Characters_By_Frequency .swift in Sources */,
 				60080BB42B6D974D009E8A5E /* Medium_1291_Sequential_Digits.swift in Sources */,
 				6013D3572B4468780086DDD5 /* Easy_0001_Two_Sum_Test.swift in Sources */,
@@ -649,6 +658,7 @@
 				60BA662F2B4EFA11001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected_Test.swift in Sources */,
 				602877B12B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift in Sources */,
 				600CCF842B556E68000F2508 /* Medium_2225_Find_Players_With_Zero_or_One_Losses_Test.swift in Sources */,
+				604E3E192B75F86F00502B29 /* Medium_0368_Largest_Divisible_Subset_Test.swift in Sources */,
 				60A4FFAE2B4C5C2C00A2C56E /* Easy_0070_Climbing_Stairs_Test.swift in Sources */,
 				603AECB02B6FF30B0005286D /* Medium_0075_Sort_Colors.swift in Sources */,
 				60BA66142B4DB32F001E5B88 /* Easy_0872_Leaf_Similar_Trees_Test.swift in Sources */,
