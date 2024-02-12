@@ -63,6 +63,9 @@
 		604A36832B79D74D00DD9C85 /* Medium_0011_Container_With_Most_Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A36822B79D74D00DD9C85 /* Medium_0011_Container_With_Most_Water.swift */; };
 		604A36852B79D83400DD9C85 /* Medium_0011_Container_With_Most_Water_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A36842B79D83400DD9C85 /* Medium_0011_Container_With_Most_Water_Test.swift */; };
 		604A36862B79D85800DD9C85 /* Medium_0011_Container_With_Most_Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A36822B79D74D00DD9C85 /* Medium_0011_Container_With_Most_Water.swift */; };
+		604A36882B79EB6000DD9C85 /* Hard_0042_Trapping_Rain_Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A36872B79EB6000DD9C85 /* Hard_0042_Trapping_Rain_Water.swift */; };
+		604A36892B79EB6000DD9C85 /* Hard_0042_Trapping_Rain_Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A36872B79EB6000DD9C85 /* Hard_0042_Trapping_Rain_Water.swift */; };
+		604A368B2B79F97200DD9C85 /* Hard_0042_Trapping_Rain_Water_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A368A2B79F97200DD9C85 /* Hard_0042_Trapping_Rain_Water_Test.swift */; };
 		604E3DFA2B729A1E00502B29 /* Medium_0049_Group_Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3DF92B729A1E00502B29 /* Medium_0049_Group_Anagrams.swift */; };
 		604E3DFB2B729A1E00502B29 /* Medium_0049_Group_Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3DF92B729A1E00502B29 /* Medium_0049_Group_Anagrams.swift */; };
 		604E3DFD2B734B6F00502B29 /* Medium_0451_Sort_Characters_By_Frequency .swift in Sources */ = {isa = PBXBuildFile; fileRef = 604E3DFC2B734B6F00502B29 /* Medium_0451_Sort_Characters_By_Frequency .swift */; };
@@ -221,6 +224,8 @@
 		604A36802B79D4DD00DD9C85 /* Easy_0169_Majority_Element_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0169_Majority_Element_Test.swift; sourceTree = "<group>"; };
 		604A36822B79D74D00DD9C85 /* Medium_0011_Container_With_Most_Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0011_Container_With_Most_Water.swift; sourceTree = "<group>"; };
 		604A36842B79D83400DD9C85 /* Medium_0011_Container_With_Most_Water_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0011_Container_With_Most_Water_Test.swift; sourceTree = "<group>"; };
+		604A36872B79EB6000DD9C85 /* Hard_0042_Trapping_Rain_Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard_0042_Trapping_Rain_Water.swift; sourceTree = "<group>"; };
+		604A368A2B79F97200DD9C85 /* Hard_0042_Trapping_Rain_Water_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard_0042_Trapping_Rain_Water_Test.swift; sourceTree = "<group>"; };
 		604E3DF92B729A1E00502B29 /* Medium_0049_Group_Anagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0049_Group_Anagrams.swift; sourceTree = "<group>"; };
 		604E3DFC2B734B6F00502B29 /* Medium_0451_Sort_Characters_By_Frequency .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Medium_0451_Sort_Characters_By_Frequency .swift"; sourceTree = "<group>"; };
 		604E3DFF2B734DD200502B29 /* Medium_0451_Sort_Characters_By_Frequency_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0451_Sort_Characters_By_Frequency_Test.swift; sourceTree = "<group>"; };
@@ -428,6 +433,7 @@
 			isa = PBXGroup;
 			children = (
 				604A36712B78E76900DD9C85 /* Hard_1463_Cherry_Pickup_II_Test.swift */,
+				604A368A2B79F97200DD9C85 /* Hard_0042_Trapping_Rain_Water_Test.swift */,
 			);
 			path = Hard;
 			sourceTree = "<group>";
@@ -437,6 +443,7 @@
 			children = (
 				60CA78472B6557E500577AEF /* Hard_0629_K_Inverse_Pairs_Array.swift */,
 				604A366D2B78E51600DD9C85 /* Hard_1463_Cherry_Pickup_II.swift */,
+				604A36872B79EB6000DD9C85 /* Hard_0042_Trapping_Rain_Water.swift */,
 			);
 			path = Hard;
 			sourceTree = "<group>";
@@ -664,6 +671,7 @@
 				600CCF812B556E3B000F2508 /* Medium_2225_Find_Players_With_Zero_or_One_Losses.swift in Sources */,
 				60A8EB1C2B49B96A0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array.swift in Sources */,
 				60F6B00D2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift in Sources */,
+				604A36882B79EB6000DD9C85 /* Hard_0042_Trapping_Rain_Water.swift in Sources */,
 				601C4A842B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift in Sources */,
 				60CCBE702B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift in Sources */,
 				602877E82B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */,
@@ -700,6 +708,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				60F6B0162B53BF43002500B6 /* Easy_0455_Assign_Cookies_Test.swift in Sources */,
+				604A36892B79EB6000DD9C85 /* Hard_0042_Trapping_Rain_Water.swift in Sources */,
 				604E3E122B74ED3400502B29 /* Medium_0279_Perfect_Squares.swift in Sources */,
 				60B59BC02B5D279C009A801D /* Medium_0198_House_Robber.swift in Sources */,
 				60B59BB52B5A94EB009A801D /* Medium_0931_Minimum_Falling_Path_Sum.swift in Sources */,
@@ -773,6 +782,7 @@
 				60B88F542B60155400553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters_Test.swift in Sources */,
 				60F6B0132B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift in Sources */,
 				604A367C2B7944AA00DD9C85 /* Medium_0015_3Sum_Test.swift in Sources */,
+				604A368B2B79F97200DD9C85 /* Hard_0042_Trapping_Rain_Water_Test.swift in Sources */,
 				604E3DFB2B729A1E00502B29 /* Medium_0049_Group_Anagrams.swift in Sources */,
 				601C4A822B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */,
 				602877EB2B4712EE005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */,
