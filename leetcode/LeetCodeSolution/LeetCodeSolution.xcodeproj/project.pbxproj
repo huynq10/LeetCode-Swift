@@ -172,6 +172,9 @@
 		60F6B0122B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F6B0112B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift */; };
 		60F6B0132B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F6B0112B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift */; };
 		60F6B0162B53BF43002500B6 /* Easy_0455_Assign_Cookies_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F6B0142B53BF43002500B6 /* Easy_0455_Assign_Cookies_Test.swift */; };
+		60FACF242B7D18EC009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FACF232B7D18EC009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array.swift */; };
+		60FACF252B7D18EC009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FACF232B7D18EC009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array.swift */; };
+		60FACF272B7D19E3009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FACF262B7D19E3009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array_Test.swift */; };
 		60FDB51F2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FDB51E2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift */; };
 		60FDB5202B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FDB51E2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift */; };
 		60FDB5232B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FDB5212B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift */; };
@@ -310,6 +313,8 @@
 		60F6B00E2B53B01B002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift; sourceTree = "<group>"; };
 		60F6B0112B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0455_Assign_Cookies.swift; sourceTree = "<group>"; };
 		60F6B0142B53BF43002500B6 /* Easy_0455_Assign_Cookies_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0455_Assign_Cookies_Test.swift; sourceTree = "<group>"; };
+		60FACF232B7D18EC009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0153_Find_Minimum_in_Rotated_Sorted_Array.swift; sourceTree = "<group>"; };
+		60FACF262B7D19E3009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0153_Find_Minimum_in_Rotated_Sorted_Array_Test.swift; sourceTree = "<group>"; };
 		60FDB51E2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0027_Remove_Element.swift; sourceTree = "<group>"; };
 		60FDB5212B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0027_Remove_Element_Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -512,6 +517,7 @@
 				604A36912B7A3ADA00DD9C85 /* Medium_0074_Search_a_2D_Matrix.swift */,
 				604A36962B7A8E3600DD9C85 /* Medium_0875_Koko_Eating_Bananas.swift */,
 				604A36A42B7CBDA800DD9C85 /* Medium_2149_Rearrange_Array_Elements_by_Sign.swift */,
+				60FACF232B7D18EC009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -546,6 +552,7 @@
 				604A36942B7A51E200DD9C85 /* Medium_0074_Search_a_2D_Matrix_Test.swift */,
 				604A36992B7B5C9E00DD9C85 /* Medium_0875_Koko_Eating_Bananas_Test.swift */,
 				604A36A12B7CBB8300DD9C85 /* Medium_2149_Rearrange_Array_Elements_by_Sign_Test.swift */,
+				60FACF262B7D19E3009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array_Test.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -732,6 +739,7 @@
 				604A366E2B78E51600DD9C85 /* Hard_1463_Cherry_Pickup_II.swift in Sources */,
 				60B59BBF2B5D279C009A801D /* Medium_0198_House_Robber.swift in Sources */,
 				60B59BBA2B5C3135009A801D /* Medium_0907_Sum_of_Subarray_Minimums.swift in Sources */,
+				60FACF242B7D18EC009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array.swift in Sources */,
 				6098CC7A2B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift in Sources */,
 				60BD83892B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift in Sources */,
 				60BA662A2B4EF9C2001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.swift in Sources */,
@@ -792,6 +800,7 @@
 				604E3E1E2B7624C300502B29 /* Medium_0238_Product_of_Array_Except_Self_test.swift in Sources */,
 				60080BB42B6D974D009E8A5E /* Medium_1291_Sequential_Digits.swift in Sources */,
 				604A367A2B7942DA00DD9C85 /* Medium_0015_3Sum.swift in Sources */,
+				60FACF272B7D19E3009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array_Test.swift in Sources */,
 				6013D3572B4468780086DDD5 /* Easy_0001_Two_Sum_Test.swift in Sources */,
 				60B59BC52B5D7515009A801D /* Medium_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.swift in Sources */,
 				60A8EB1F2B49B9CB0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array_Test.swift in Sources */,
@@ -843,6 +852,7 @@
 				604A36902B7A391D00DD9C85 /* Easy_0704_Binary_Search_Test.swift in Sources */,
 				60B59BC22B5D2F50009A801D /* Medium_0198_House_Robber_Test.swift in Sources */,
 				60BD83852B515F6600991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike.swift in Sources */,
+				60FACF252B7D18EC009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array.swift in Sources */,
 				600DABF72B5037FB00911CD9 /* Medium_1026_Maximum_Difference_Between_Node_and_Ancestor.swift in Sources */,
 				6013D33D2B4468010086DDD5 /* LeetCodeSolutionTests.swift in Sources */,
 				604A36752B79270F00DD9C85 /* Medium_0167_Two_Sum_II_Input_Array_Is_Sorted.swift in Sources */,
