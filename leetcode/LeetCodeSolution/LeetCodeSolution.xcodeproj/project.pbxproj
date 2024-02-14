@@ -75,6 +75,9 @@
 		604A36972B7A8E3600DD9C85 /* Medium_0875_Koko_Eating_Bananas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A36962B7A8E3600DD9C85 /* Medium_0875_Koko_Eating_Bananas.swift */; };
 		604A36982B7A8E3600DD9C85 /* Medium_0875_Koko_Eating_Bananas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A36962B7A8E3600DD9C85 /* Medium_0875_Koko_Eating_Bananas.swift */; };
 		604A369A2B7B5C9E00DD9C85 /* Medium_0875_Koko_Eating_Bananas_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A36992B7B5C9E00DD9C85 /* Medium_0875_Koko_Eating_Bananas_Test.swift */; };
+		604A369C2B7B71D300DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A369B2B7B71D300DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array.swift */; };
+		604A369D2B7B71D300DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A369B2B7B71D300DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array.swift */; };
+		604A36A02B7B72CB00DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A369E2B7B72CB00DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array_Test.swift */; };
 		604A36A52B7CBDA800DD9C85 /* Medium_2149_Rearrange_Array_Elements_by_Sign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A36A42B7CBDA800DD9C85 /* Medium_2149_Rearrange_Array_Elements_by_Sign.swift */; };
 		604A36A62B7CBDA800DD9C85 /* Medium_2149_Rearrange_Array_Elements_by_Sign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A36A42B7CBDA800DD9C85 /* Medium_2149_Rearrange_Array_Elements_by_Sign.swift */; };
 		604A36A72B7CBDCC00DD9C85 /* Medium_2149_Rearrange_Array_Elements_by_Sign_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604A36A12B7CBB8300DD9C85 /* Medium_2149_Rearrange_Array_Elements_by_Sign_Test.swift */; };
@@ -244,6 +247,8 @@
 		604A36942B7A51E200DD9C85 /* Medium_0074_Search_a_2D_Matrix_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0074_Search_a_2D_Matrix_Test.swift; sourceTree = "<group>"; };
 		604A36962B7A8E3600DD9C85 /* Medium_0875_Koko_Eating_Bananas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0875_Koko_Eating_Bananas.swift; sourceTree = "<group>"; };
 		604A36992B7B5C9E00DD9C85 /* Medium_0875_Koko_Eating_Bananas_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0875_Koko_Eating_Bananas_Test.swift; sourceTree = "<group>"; };
+		604A369B2B7B71D300DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_2108_Find_First_Palindromic_String_in_the_Array.swift; sourceTree = "<group>"; };
+		604A369E2B7B72CB00DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_2108_Find_First_Palindromic_String_in_the_Array_Test.swift; sourceTree = "<group>"; };
 		604A36A12B7CBB8300DD9C85 /* Medium_2149_Rearrange_Array_Elements_by_Sign_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2149_Rearrange_Array_Elements_by_Sign_Test.swift; sourceTree = "<group>"; };
 		604A36A42B7CBDA800DD9C85 /* Medium_2149_Rearrange_Array_Elements_by_Sign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2149_Rearrange_Array_Elements_by_Sign.swift; sourceTree = "<group>"; };
 		604E3DF92B729A1E00502B29 /* Medium_0049_Group_Anagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0049_Group_Anagrams.swift; sourceTree = "<group>"; };
@@ -412,6 +417,7 @@
 				604E3E092B73930200502B29 /* Easy_0242_Valid_Anagram_Test.swift */,
 				604A36802B79D4DD00DD9C85 /* Easy_0169_Majority_Element_Test.swift */,
 				604A368F2B7A391D00DD9C85 /* Easy_0704_Binary_Search_Test.swift */,
+				604A369E2B7B72CB00DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array_Test.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -447,6 +453,7 @@
 				604E3E5C2B772AA000502B29 /* Easy_0125_Valid_Palindrome.swift */,
 				604A367D2B79D34900DD9C85 /* Easy_0169_Majority_Element.swift */,
 				604A368C2B7A37F900DD9C85 /* Easy_0704_Binary_Search.swift */,
+				604A369B2B7B71D300DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -693,6 +700,7 @@
 				604E3DFA2B729A1E00502B29 /* Medium_0049_Group_Anagrams.swift in Sources */,
 				60B59BC92B5D80E4009A801D /* Medium_1375_Number_of_Times_Binary_String_Is_Prefix_Aligned.swift in Sources */,
 				603AECAF2B6FF3080005286D /* Medium_0075_Sort_Colors.swift in Sources */,
+				604A369C2B7B71D300DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array.swift in Sources */,
 				604A36832B79D74D00DD9C85 /* Medium_0011_Container_With_Most_Water.swift in Sources */,
 				60B59BD12B5DEB64009A801D /* Easy_0645_Set_Mismatch.swift in Sources */,
 				60080BB32B6D974D009E8A5E /* Medium_1291_Sequential_Digits.swift in Sources */,
@@ -757,6 +765,7 @@
 				604E3E0D2B7395F100502B29 /* Medium_0347_Top_K_Frequent_Elements.swift in Sources */,
 				60B59BD42B5DEDD5009A801D /* Easy_0645_Set_Mismatch_Test.swift in Sources */,
 				604E3E052B7390F600502B29 /* Easy_0217_Contains_Duplicate_Test.swift in Sources */,
+				604A369D2B7B71D300DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array.swift in Sources */,
 				604A36A72B7CBDCC00DD9C85 /* Medium_2149_Rearrange_Array_Elements_by_Sign_Test.swift in Sources */,
 				604A36772B792ADE00DD9C85 /* Medium_0167_Two_Sum_II_Input_Array_Is_Sorted_Test.swift in Sources */,
 				604E3E002B734DD200502B29 /* Medium_0451_Sort_Characters_By_Frequency_Test.swift in Sources */,
@@ -808,6 +817,7 @@
 				60B59BC72B5D766F009A801D /* Medium_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions_Test.swift in Sources */,
 				604A368E2B7A37F900DD9C85 /* Easy_0704_Binary_Search.swift in Sources */,
 				604A36932B7A3ADA00DD9C85 /* Medium_0074_Search_a_2D_Matrix.swift in Sources */,
+				604A36A02B7B72CB00DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array_Test.swift in Sources */,
 				604E3E592B7662A000502B29 /* Medium_0128_Longest_Consecutive_Sequence.swift in Sources */,
 				60A4FFAB2B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift in Sources */,
 				604E3E142B74ED4800502B29 /* Medium_0279_Perfect_Squares_Test.swift in Sources */,
