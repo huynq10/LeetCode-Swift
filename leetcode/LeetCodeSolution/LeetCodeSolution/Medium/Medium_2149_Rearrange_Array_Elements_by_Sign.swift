@@ -38,23 +38,18 @@ import Foundation
 
 class Medium_2149_Rearrange_Array_Elements_by_Sign {
     func rearrangeArray(_ nums: [Int]) -> [Int] {
-        var positives = [Int]()
-        var negatives = [Int]()
-        
-        for num in nums {
-            if num >= 0 {
-                positives.append(num)
+        var results = Array(repeating: 0, count: nums.count)
+        var positiveCount = 0
+        var negativeCount = 0
+        for i in 0 ..< nums.count {
+            if nums[i] > 0 {
+                results[positiveCount * 2] = nums[i]
+                positiveCount += 1
             } else {
-                negatives.append(num)
+                results[negativeCount * 2 + 1] = nums[i]
+                negativeCount += 1
             }
         }
-        
-        var elements = [Int]()
-        for i in 0..<positives.count {
-            elements.append(positives[i])
-            elements.append(negatives[i])
-        }
-        
-        return elements
+        return results
     }
 }
