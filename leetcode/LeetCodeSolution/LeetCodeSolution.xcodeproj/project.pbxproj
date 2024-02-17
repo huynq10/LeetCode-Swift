@@ -40,6 +40,9 @@
 		601AB2DE2B80E32D001829C5 /* Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601AB2DD2B80E32D001829C5 /* Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference.swift */; };
 		601AB2DF2B80E32D001829C5 /* Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601AB2DD2B80E32D001829C5 /* Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference.swift */; };
 		601AB2E12B80E715001829C5 /* Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601AB2E02B80E715001829C5 /* Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference_Test.swift */; };
+		601AB2E32B80ECEF001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601AB2E22B80ECEF001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock.swift */; };
+		601AB2E42B80ECEF001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601AB2E22B80ECEF001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock.swift */; };
+		601AB2E62B80EDCC001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601AB2E52B80EDCC001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock_Test.swift */; };
 		601C4A812B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 601C4A802B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift */; };
 		601C4A822B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 601C4A802B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift */; };
 		601C4A842B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601C4A832B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift */; };
@@ -242,6 +245,8 @@
 		601AB2DB2B806895001829C5 /* Medium_1642_Furthest_Building_You_Can_Reach_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1642_Furthest_Building_You_Can_Reach_Test.swift; sourceTree = "<group>"; };
 		601AB2DD2B80E32D001829C5 /* Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference.swift; sourceTree = "<group>"; };
 		601AB2E02B80E715001829C5 /* Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference_Test.swift; sourceTree = "<group>"; };
+		601AB2E22B80ECEF001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0121_Best_Time_to_Buy_and_Sell_Stock.swift; sourceTree = "<group>"; };
+		601AB2E52B80EDCC001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0121_Best_Time_to_Buy_and_Sell_Stock_Test.swift; sourceTree = "<group>"; };
 		601C4A802B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Medium_0380_Insert_Delete_GetRandom_O(1).swift"; sourceTree = "<group>"; };
 		601C4A832B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_1207_Unique_Number_of_Occurrences.swift; sourceTree = "<group>"; };
 		601C4A862B57580200A5E210 /* Easy_1207_Unique_Number_of_Occurrences_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_1207_Unique_Number_of_Occurrences_Test.swift; sourceTree = "<group>"; };
@@ -448,6 +453,7 @@
 				604A36802B79D4DD00DD9C85 /* Easy_0169_Majority_Element_Test.swift */,
 				604A368F2B7A391D00DD9C85 /* Easy_0704_Binary_Search_Test.swift */,
 				604A369E2B7B72CB00DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array_Test.swift */,
+				601AB2E52B80EDCC001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock_Test.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -484,6 +490,7 @@
 				604A367D2B79D34900DD9C85 /* Easy_0169_Majority_Element.swift */,
 				604A368C2B7A37F900DD9C85 /* Easy_0704_Binary_Search.swift */,
 				604A369B2B7B71D300DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array.swift */,
+				601AB2E22B80ECEF001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -776,6 +783,7 @@
 				604E3DFD2B734B6F00502B29 /* Medium_0451_Sort_Characters_By_Frequency .swift in Sources */,
 				60BA660A2B4DA844001E5B88 /* Easy_0136_Single_Number.swift in Sources */,
 				60A4FFAA2B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift in Sources */,
+				601AB2E32B80ECEF001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock.swift in Sources */,
 				604A366E2B78E51600DD9C85 /* Hard_1463_Cherry_Pickup_II.swift in Sources */,
 				60B59BBF2B5D279C009A801D /* Medium_0198_House_Robber.swift in Sources */,
 				60B59BBA2B5C3135009A801D /* Medium_0907_Sum_of_Subarray_Minimums.swift in Sources */,
@@ -800,6 +808,7 @@
 				604E3E122B74ED3400502B29 /* Medium_0279_Perfect_Squares.swift in Sources */,
 				60B59BC02B5D279C009A801D /* Medium_0198_House_Robber.swift in Sources */,
 				60B59BB52B5A94EB009A801D /* Medium_0931_Minimum_Falling_Path_Sum.swift in Sources */,
+				601AB2E62B80EDCC001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock_Test.swift in Sources */,
 				60CA78492B6557E500577AEF /* Hard_0629_K_Inverse_Pairs_Array.swift in Sources */,
 				60CCBE732B5EBC79003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty_Test.swift in Sources */,
 				60BA660E2B4DA8C0001E5B88 /* Easy_0136_Single_Number_Test.swift in Sources */,
@@ -854,6 +863,7 @@
 				60FDB5202B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift in Sources */,
 				604A367F2B79D34A00DD9C85 /* Easy_0169_Majority_Element.swift in Sources */,
 				603AECB22B6FF3330005286D /* Medium_0075_Sort_Colors_Test.swift in Sources */,
+				601AB2E42B80ECEF001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock.swift in Sources */,
 				60F6B0102B53B044002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift in Sources */,
 				60BA662F2B4EFA11001E5B88 /* Medium_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected_Test.swift in Sources */,
 				604A36862B79D85800DD9C85 /* Medium_0011_Container_With_Most_Water.swift in Sources */,
