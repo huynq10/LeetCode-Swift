@@ -135,6 +135,9 @@
 		609C6B312B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609C6B302B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift */; };
 		609C6B322B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609C6B302B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift */; };
 		609C6B342B83B0C600CA2E13 /* Easy_0231_Power_of_Two_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609C6B332B83B0C600CA2E13 /* Easy_0231_Power_of_Two_Test.swift */; };
+		60A0DA072B85064800D3A93A /* Easy_0268_Missing_Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A0DA062B85064800D3A93A /* Easy_0268_Missing_Number.swift */; };
+		60A0DA082B85064800D3A93A /* Easy_0268_Missing_Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A0DA062B85064800D3A93A /* Easy_0268_Missing_Number.swift */; };
+		60A0DA0A2B8506CD00D3A93A /* Easy_0268_Missing_Number_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A0DA092B8506CD00D3A93A /* Easy_0268_Missing_Number_Test.swift */; };
 		60A4FFAA2B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4FFA92B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift */; };
 		60A4FFAB2B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4FFA92B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift */; };
 		60A4FFAE2B4C5C2C00A2C56E /* Easy_0070_Climbing_Stairs_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4FFAC2B4C5C2C00A2C56E /* Easy_0070_Climbing_Stairs_Test.swift */; };
@@ -313,6 +316,8 @@
 		6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0232_Implement_Queue_using_Stacks.swift; sourceTree = "<group>"; };
 		609C6B302B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0231_Power_of_Two.swift; sourceTree = "<group>"; };
 		609C6B332B83B0C600CA2E13 /* Easy_0231_Power_of_Two_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0231_Power_of_Two_Test.swift; sourceTree = "<group>"; };
+		60A0DA062B85064800D3A93A /* Easy_0268_Missing_Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0268_Missing_Number.swift; sourceTree = "<group>"; };
+		60A0DA092B8506CD00D3A93A /* Easy_0268_Missing_Number_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0268_Missing_Number_Test.swift; sourceTree = "<group>"; };
 		60A4FFA92B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0070_Climbing_Stairs.swift; sourceTree = "<group>"; };
 		60A4FFAC2B4C5C2C00A2C56E /* Easy_0070_Climbing_Stairs_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0070_Climbing_Stairs_Test.swift; sourceTree = "<group>"; };
 		60A8EB1B2B49B96A0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0026_Remove_Duplicates_From_Sorted_Array.swift; sourceTree = "<group>"; };
@@ -465,6 +470,7 @@
 				604A369E2B7B72CB00DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array_Test.swift */,
 				601AB2E52B80EDCC001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock_Test.swift */,
 				609C6B332B83B0C600CA2E13 /* Easy_0231_Power_of_Two_Test.swift */,
+				60A0DA092B8506CD00D3A93A /* Easy_0268_Missing_Number_Test.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -503,6 +509,7 @@
 				604A369B2B7B71D300DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array.swift */,
 				601AB2E22B80ECEF001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock.swift */,
 				609C6B302B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift */,
+				60A0DA062B85064800D3A93A /* Easy_0268_Missing_Number.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -783,6 +790,7 @@
 				600DABF62B5037FB00911CD9 /* Medium_1026_Maximum_Difference_Between_Node_and_Ancestor.swift in Sources */,
 				601AB2D42B7EF609001829C5 /* Medium_1481_Least_Number_of_Unique_Integers_after_K_Removals.swift in Sources */,
 				601130B52B4827F400E78FE6 /* Easy_0021_Merge_Two_Sorted_Lists.swift in Sources */,
+				60A0DA072B85064800D3A93A /* Easy_0268_Missing_Number.swift in Sources */,
 				604A36922B7A3ADA00DD9C85 /* Medium_0074_Search_a_2D_Matrix.swift in Sources */,
 				601AB2DE2B80E32D001829C5 /* Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference.swift in Sources */,
 				60F6B0122B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift in Sources */,
@@ -830,6 +838,7 @@
 				601AB2EB2B81FC78001829C5 /* Medium_0739_Daily_Temperatures_Test.swift in Sources */,
 				60BA660E2B4DA8C0001E5B88 /* Easy_0136_Single_Number_Test.swift in Sources */,
 				60CA78462B62C12100577AEF /* Medium_1143_Longest_Common_Subsequence.swift in Sources */,
+				60A0DA0A2B8506CD00D3A93A /* Easy_0268_Missing_Number_Test.swift in Sources */,
 				60B59BCA2B5D80E4009A801D /* Medium_1375_Number_of_Times_Binary_String_Is_Prefix_Aligned.swift in Sources */,
 				60B59BCC2B5D81E0009A801D /* Medium_1375_Number_of_Times_Binary_String_Is_Prefix_Aligned_Test.swift in Sources */,
 				60BA66112B4DB0B0001E5B88 /* Easy_0872_Leaf_Similar_Trees.swift in Sources */,
@@ -903,6 +912,7 @@
 				604A36932B7A3ADA00DD9C85 /* Medium_0074_Search_a_2D_Matrix.swift in Sources */,
 				604A36A02B7B72CB00DD9C85 /* Easy_2108_Find_First_Palindromic_String_in_the_Array_Test.swift in Sources */,
 				604E3E592B7662A000502B29 /* Medium_0128_Longest_Consecutive_Sequence.swift in Sources */,
+				60A0DA082B85064800D3A93A /* Easy_0268_Missing_Number.swift in Sources */,
 				601AB2D72B7F062C001829C5 /* Medium_1481_Least_Number_of_Unique_Integers_after_K_Removals_Test.swift in Sources */,
 				60A4FFAB2B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift in Sources */,
 				604E3E142B74ED4800502B29 /* Medium_0279_Perfect_Squares_Test.swift in Sources */,
