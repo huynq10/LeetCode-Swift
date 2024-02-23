@@ -38,13 +38,14 @@ import Foundation
 
 class Easy_0997_Find_the_Town_Judge {
     func findJudge(_ n: Int, _ trust: [[Int]]) -> Int {
-        var trustMap = [Int:Int]()
+        guard n > 1 else { return 1 }
+        
         var trustCount = Array(repeating: 0, count: n + 1)
         var maxTrustCount = 0, maxTrustLabel = 0
         trust.forEach {
             let a = $0[0], b = $0[1]
-            trustMap[a] = b
             trustCount[b] += 1
+            trustCount[a] -= 1
             
             if trustCount[b] > maxTrustCount {
                 maxTrustCount = trustCount[b]
@@ -52,14 +53,10 @@ class Easy_0997_Find_the_Town_Judge {
             }
         }
         
-        if maxTrustCount == n - 1, trustMap[maxTrustLabel] == nil {
-            if trustMap.isEmpty {
-                return n
-            } else {
-                return maxTrustLabel
-            }
+        if trustCount[maxTrustLabel] == n-1 {
+            return maxTrustLabel
+        } else {
+            return -1
         }
-        
-        return -1
     }
 }

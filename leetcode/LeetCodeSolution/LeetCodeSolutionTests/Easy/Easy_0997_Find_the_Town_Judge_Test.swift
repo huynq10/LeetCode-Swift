@@ -33,4 +33,10 @@ class Easy_0997_Find_the_Town_Judge_Test : XCTestCase {
         let result = solution.findJudge(n, trust)
         XCTAssert(result == 1)
     }
+    
+    func test05() {
+        let n = 2, trust = [[Int]]()
+        let result = solution.findJudge(n, trust)
+        XCTAssert(result == -1)
+    }
 }
