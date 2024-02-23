@@ -133,6 +133,9 @@
 		6094B63F2B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6094B63E2B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift */; };
 		6094B6402B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6094B63E2B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift */; };
 		6094B6422B8784DD000ED6A0 /* Easy_0997_Find_the_Town_Judge_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6094B6412B8784DD000ED6A0 /* Easy_0997_Find_the_Town_Judge_Test.swift */; };
+		609794FD2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609794FC2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift */; };
+		609794FE2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609794FC2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift */; };
+		609795002B88B34D006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609794FF2B88B34D006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops_Test.swift */; };
 		6098CC7A2B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */; };
 		6098CC7B2B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */; };
 		609C6B312B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609C6B302B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift */; };
@@ -321,6 +324,8 @@
 		604E3E622B77588E00502B29 /* Medium_0647_Palindromic_Substrings_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0647_Palindromic_Substrings_Test.swift; sourceTree = "<group>"; };
 		6094B63E2B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0997_Find_the_Town_Judge.swift; sourceTree = "<group>"; };
 		6094B6412B8784DD000ED6A0 /* Easy_0997_Find_the_Town_Judge_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0997_Find_the_Town_Judge_Test.swift; sourceTree = "<group>"; };
+		609794FC2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0787_Cheapest_Flights_Within_K_Stops.swift; sourceTree = "<group>"; };
+		609794FF2B88B34D006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0787_Cheapest_Flights_Within_K_Stops_Test.swift; sourceTree = "<group>"; };
 		6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0232_Implement_Queue_using_Stacks.swift; sourceTree = "<group>"; };
 		609C6B302B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0231_Power_of_Two.swift; sourceTree = "<group>"; };
 		609C6B332B83B0C600CA2E13 /* Easy_0231_Power_of_Two_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0231_Power_of_Two_Test.swift; sourceTree = "<group>"; };
@@ -588,6 +593,7 @@
 				601AB2DD2B80E32D001829C5 /* Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference.swift */,
 				601AB2E72B81F79F001829C5 /* Medium_0739_Daily_Temperatures.swift */,
 				60A0DA0B2B85845700D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range.swift */,
+				609794FC2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -630,6 +636,7 @@
 				601AB2E02B80E715001829C5 /* Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference_Test.swift */,
 				601AB2EA2B81FC78001829C5 /* Medium_0739_Daily_Temperatures_Test.swift */,
 				60A0DA0E2B8584B900D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range_Test.swift */,
+				609794FF2B88B34D006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops_Test.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -799,6 +806,7 @@
 				60F6B00D2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift in Sources */,
 				604A36882B79EB6000DD9C85 /* Hard_0042_Trapping_Rain_Water.swift in Sources */,
 				601C4A842B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift in Sources */,
+				609794FD2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift in Sources */,
 				60CCBE702B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift in Sources */,
 				602877E82B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */,
 				600DABF62B5037FB00911CD9 /* Medium_1026_Maximum_Difference_Between_Node_and_Ancestor.swift in Sources */,
@@ -889,6 +897,7 @@
 				604A36722B78E76900DD9C85 /* Hard_1463_Cherry_Pickup_II_Test.swift in Sources */,
 				60A0DA0D2B85845700D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range.swift in Sources */,
 				60BD838C2B521F7A00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift in Sources */,
+				609794FE2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift in Sources */,
 				60FACF2A2B7D1EF4009E9481 /* Medium_0033_Search_in_Rotated_Sorted_Array.swift in Sources */,
 				603953502B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift in Sources */,
 				6013D35E2B446A660086DDD5 /* Easy_0001_Two_Sum.swift in Sources */,
@@ -948,6 +957,7 @@
 				604A367C2B7944AA00DD9C85 /* Medium_0015_3Sum_Test.swift in Sources */,
 				604A368B2B79F97200DD9C85 /* Hard_0042_Trapping_Rain_Water_Test.swift in Sources */,
 				604E3DFB2B729A1E00502B29 /* Medium_0049_Group_Anagrams.swift in Sources */,
+				609795002B88B34D006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops_Test.swift in Sources */,
 				601C4A822B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */,
 				602877EB2B4712EE005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */,
 				604E3E0A2B73930200502B29 /* Easy_0242_Valid_Anagram_Test.swift in Sources */,
