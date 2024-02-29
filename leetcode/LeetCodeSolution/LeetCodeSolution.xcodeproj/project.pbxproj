@@ -208,6 +208,9 @@
 		60CCBE732B5EBC79003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60CCBE722B5EBC79003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty_Test.swift */; };
 		60D2DBA72B8E28C400A34168 /* Easy_0543_Diameter_of_Binary_Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D2DBA62B8E28C400A34168 /* Easy_0543_Diameter_of_Binary_Tree.swift */; };
 		60D2DBA82B8E28C400A34168 /* Easy_0543_Diameter_of_Binary_Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D2DBA62B8E28C400A34168 /* Easy_0543_Diameter_of_Binary_Tree.swift */; };
+		60E7C00C2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E7C00B2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift */; };
+		60E7C00D2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E7C00B2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift */; };
+		60E7C00F2B90D17B00895AC1 /* Medium_1609_Even_Odd_Tree_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E7C00E2B90D17B00895AC1 /* Medium_1609_Even_Odd_Tree_Test.swift */; };
 		60F6B00D2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F6B00C2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift */; };
 		60F6B00F2B53B01C002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F6B00E2B53B01B002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift */; };
 		60F6B0102B53B044002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F6B00C2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift */; };
@@ -384,6 +387,8 @@
 		60CCBE6F2B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift; sourceTree = "<group>"; };
 		60CCBE722B5EBC79003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty_Test.swift; sourceTree = "<group>"; };
 		60D2DBA62B8E28C400A34168 /* Easy_0543_Diameter_of_Binary_Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0543_Diameter_of_Binary_Tree.swift; sourceTree = "<group>"; };
+		60E7C00B2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1609_Even_Odd_Tree.swift; sourceTree = "<group>"; };
+		60E7C00E2B90D17B00895AC1 /* Medium_1609_Even_Odd_Tree_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1609_Even_Odd_Tree_Test.swift; sourceTree = "<group>"; };
 		60F6B00C2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1657_Determine_if_Two_Strings_Are_Close.swift; sourceTree = "<group>"; };
 		60F6B00E2B53B01B002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift; sourceTree = "<group>"; };
 		60F6B0112B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0455_Assign_Cookies.swift; sourceTree = "<group>"; };
@@ -619,6 +624,7 @@
 				60A0DA0B2B85845700D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range.swift */,
 				609794FC2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift */,
 				6072B90B2B8F75EA00F6A50E /* Medium_0513_Find_Bottom_Left_Tree_Value.swift */,
+				60E7C00B2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -663,6 +669,7 @@
 				60A0DA0E2B8584B900D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range_Test.swift */,
 				609794FF2B88B34D006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops_Test.swift */,
 				6072B90E2B8F765B00F6A50E /* Medium_0513_Find_Bottom_Left_Tree_Value_Test.swift */,
+				60E7C00E2B90D17B00895AC1 /* Medium_1609_Even_Odd_Tree_Test.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -834,6 +841,7 @@
 				601C4A842B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift in Sources */,
 				609794FD2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift in Sources */,
 				60CCBE702B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift in Sources */,
+				60E7C00C2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift in Sources */,
 				60D2DBA72B8E28C400A34168 /* Easy_0543_Diameter_of_Binary_Tree.swift in Sources */,
 				602877E82B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */,
 				600DABF62B5037FB00911CD9 /* Medium_1026_Maximum_Difference_Between_Node_and_Ancestor.swift in Sources */,
@@ -912,6 +920,7 @@
 				6098CC7B2B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift in Sources */,
 				601AB2D52B7EF609001829C5 /* Medium_1481_Least_Number_of_Unique_Integers_after_K_Removals.swift in Sources */,
 				60B59BB82B5A9523009A801D /* Medium_0931_Minimum_Falling_Path_Sum_Test.swift in Sources */,
+				60E7C00D2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift in Sources */,
 				604A36952B7A51E200DD9C85 /* Medium_0074_Search_a_2D_Matrix_Test.swift in Sources */,
 				60B59BBD2B5C3168009A801D /* Medium_0907_Sum_of_Subarray_Minimums_Test.swift in Sources */,
 				60A0DA0F2B8584B900D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range_Test.swift in Sources */,
@@ -946,6 +955,7 @@
 				609C6B322B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift in Sources */,
 				60A8EB1F2B49B9CB0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array_Test.swift in Sources */,
 				604A36982B7A8E3600DD9C85 /* Medium_0875_Koko_Eating_Bananas.swift in Sources */,
+				60E7C00F2B90D17B00895AC1 /* Medium_1609_Even_Odd_Tree_Test.swift in Sources */,
 				60B59BBB2B5C3135009A801D /* Medium_0907_Sum_of_Subarray_Minimums.swift in Sources */,
 				604E3E212B76297100502B29 /* Medium_0036_Valid_Sudoku.swift in Sources */,
 				604E3E082B7391E900502B29 /* Easy_0242_Valid_Anagram.swift in Sources */,
