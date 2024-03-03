@@ -17,24 +17,22 @@ class Medium_0019_Remove_Nth_Node_From_End_of_List {
     }
     
     func removeNthFromEnd(_ head: ListNode?, _ n: Int) -> ListNode? {
-        guard let head = head else { return nil }
-        var node:ListNode? = head
-        var arr = [ListNode]()
-        while node != nil {
-            arr.append(node!)
-            node = node!.next
+        var pre = head, fast = head, slow = head
+        for _ in 0 ..< n {
+            fast = fast?.next
         }
-
-        var result: ListNode?
-        if n == arr.count {
-            result = head.next
-        } else {
-            let removedNode = arr[arr.count - n]
-            let preNode = arr[arr.count - n - 1]
-            preNode.next = removedNode.next
-            result = head
+        
+        while fast != nil {
+            pre = slow
+            slow = slow?.next
+            fast = fast?.next
         }
-       
-        return result
+        
+        if slow === head {
+            return slow?.next
+        }
+        
+        pre?.next = slow?.next
+        return head
     }
 }
