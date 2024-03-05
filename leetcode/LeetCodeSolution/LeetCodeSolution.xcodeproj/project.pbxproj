@@ -147,6 +147,9 @@
 		6072B90C2B8F75EA00F6A50E /* Medium_0513_Find_Bottom_Left_Tree_Value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6072B90B2B8F75EA00F6A50E /* Medium_0513_Find_Bottom_Left_Tree_Value.swift */; };
 		6072B90D2B8F75EA00F6A50E /* Medium_0513_Find_Bottom_Left_Tree_Value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6072B90B2B8F75EA00F6A50E /* Medium_0513_Find_Bottom_Left_Tree_Value.swift */; };
 		6072B90F2B8F765B00F6A50E /* Medium_0513_Find_Bottom_Left_Tree_Value_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6072B90E2B8F765B00F6A50E /* Medium_0513_Find_Bottom_Left_Tree_Value_Test.swift */; };
+		6084497C2B9780F600091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6084497B2B9780F600091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.swift */; };
+		6084497D2B9780F600091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6084497B2B9780F600091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.swift */; };
+		6084497F2B9783A300091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6084497E2B9783A300091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_Test.swift */; };
 		6094B63F2B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6094B63E2B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift */; };
 		6094B6402B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6094B63E2B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift */; };
 		6094B6422B8784DD000ED6A0 /* Easy_0997_Find_the_Town_Judge_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6094B6412B8784DD000ED6A0 /* Easy_0997_Find_the_Town_Judge_Test.swift */; };
@@ -362,6 +365,8 @@
 		604E3E622B77588E00502B29 /* Medium_0647_Palindromic_Substrings_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0647_Palindromic_Substrings_Test.swift; sourceTree = "<group>"; };
 		6072B90B2B8F75EA00F6A50E /* Medium_0513_Find_Bottom_Left_Tree_Value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0513_Find_Bottom_Left_Tree_Value.swift; sourceTree = "<group>"; };
 		6072B90E2B8F765B00F6A50E /* Medium_0513_Find_Bottom_Left_Tree_Value_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0513_Find_Bottom_Left_Tree_Value_Test.swift; sourceTree = "<group>"; };
+		6084497B2B9780F600091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.swift; sourceTree = "<group>"; };
+		6084497E2B9783A300091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_Test.swift; sourceTree = "<group>"; };
 		6094B63E2B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0997_Find_the_Town_Judge.swift; sourceTree = "<group>"; };
 		6094B6412B8784DD000ED6A0 /* Easy_0997_Find_the_Town_Judge_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0997_Find_the_Town_Judge_Test.swift; sourceTree = "<group>"; };
 		609794FC2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0787_Cheapest_Flights_Within_K_Stops.swift; sourceTree = "<group>"; };
@@ -656,6 +661,7 @@
 				60E7C00B2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift */,
 				602A9A0F2B94207C000BB7FC /* Medium_0019_Remove_Nth_Node_From_End_of_List.swift */,
 				602A9A172B954F90000BB7FC /* Medium_0948_Bag_of_Tokens.swift */,
+				6084497B2B9780F600091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -702,6 +708,7 @@
 				6072B90E2B8F765B00F6A50E /* Medium_0513_Find_Bottom_Left_Tree_Value_Test.swift */,
 				60E7C00E2B90D17B00895AC1 /* Medium_1609_Even_Odd_Tree_Test.swift */,
 				602A9A1A2B95516C000BB7FC /* Medium_0948_Bag_of_Tokens_Test.swift */,
+				6084497E2B9783A300091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_Test.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -902,6 +909,7 @@
 				6072B90C2B8F75EA00F6A50E /* Medium_0513_Find_Bottom_Left_Tree_Value.swift in Sources */,
 				604E3DFD2B734B6F00502B29 /* Medium_0451_Sort_Characters_By_Frequency .swift in Sources */,
 				602A9A182B954F91000BB7FC /* Medium_0948_Bag_of_Tokens.swift in Sources */,
+				6084497C2B9780F600091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.swift in Sources */,
 				6094B63F2B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift in Sources */,
 				60BA660A2B4DA844001E5B88 /* Easy_0136_Single_Number.swift in Sources */,
 				60A4FFAA2B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift in Sources */,
@@ -938,6 +946,7 @@
 				60CA78492B6557E500577AEF /* Hard_0629_K_Inverse_Pairs_Array.swift in Sources */,
 				60CCBE732B5EBC79003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty_Test.swift in Sources */,
 				601AB2EB2B81FC78001829C5 /* Medium_0739_Daily_Temperatures_Test.swift in Sources */,
+				6084497F2B9783A300091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_Test.swift in Sources */,
 				60BA660E2B4DA8C0001E5B88 /* Easy_0136_Single_Number_Test.swift in Sources */,
 				60CA78462B62C12100577AEF /* Medium_1143_Longest_Common_Subsequence.swift in Sources */,
 				60A0DA0A2B8506CD00D3A93A /* Easy_0268_Missing_Number_Test.swift in Sources */,
@@ -1074,6 +1083,7 @@
 				603953522B712D6F0053F1E3 /* Easy_0387_First_Unique_Character_in_a_String_Test.swift in Sources */,
 				604E3E5B2B76637600502B29 /* Medium_0128_Longest_Consecutive_Sequence_Test.swift in Sources */,
 				60B59BD22B5DEB64009A801D /* Easy_0645_Set_Mismatch.swift in Sources */,
+				6084497D2B9780F600091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.swift in Sources */,
 				60CCBE712B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
