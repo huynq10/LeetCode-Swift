@@ -248,6 +248,8 @@
 		60FDB5232B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FDB5212B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift */; };
 		60FEC4EC2B98D53D00914850 /* Easy_0141_Linked_List_Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FEC4EB2B98D53D00914850 /* Easy_0141_Linked_List_Cycle.swift */; };
 		60FEC4ED2B98D53D00914850 /* Easy_0141_Linked_List_Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FEC4EB2B98D53D00914850 /* Easy_0141_Linked_List_Cycle.swift */; };
+		60FEC4EF2B99464D00914850 /* Easy_0876_Middle_of_the_Linked_List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FEC4EE2B99464D00914850 /* Easy_0876_Middle_of_the_Linked_List.swift */; };
+		60FEC4F02B99464D00914850 /* Easy_0876_Middle_of_the_Linked_List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60FEC4EE2B99464D00914850 /* Easy_0876_Middle_of_the_Linked_List.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -432,6 +434,7 @@
 		60FDB51E2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0027_Remove_Element.swift; sourceTree = "<group>"; };
 		60FDB5212B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0027_Remove_Element_Test.swift; sourceTree = "<group>"; };
 		60FEC4EB2B98D53D00914850 /* Easy_0141_Linked_List_Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0141_Linked_List_Cycle.swift; sourceTree = "<group>"; };
+		60FEC4EE2B99464D00914850 /* Easy_0876_Middle_of_the_Linked_List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0876_Middle_of_the_Linked_List.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -589,6 +592,7 @@
 				602A9A042B91CF41000BB7FC /* Easy_2864_Maximum_Odd_Binary_Number.swift */,
 				602A9A0A2B92BB27000BB7FC /* Easy_0977_Squares_of_a_Sorted_Array.swift */,
 				60FEC4EB2B98D53D00914850 /* Easy_0141_Linked_List_Cycle.swift */,
+				60FEC4EE2B99464D00914850 /* Easy_0876_Middle_of_the_Linked_List.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -931,6 +935,7 @@
 				6013D3282B4467FF0086DDD5 /* SceneDelegate.swift in Sources */,
 				604A36792B7942DA00DD9C85 /* Medium_0015_3Sum.swift in Sources */,
 				60A0DA0C2B85845700D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range.swift in Sources */,
+				60FEC4EF2B99464D00914850 /* Easy_0876_Middle_of_the_Linked_List.swift in Sources */,
 				60FDB51F2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift in Sources */,
 				604A36A52B7CBDA800DD9C85 /* Medium_2149_Rearrange_Array_Elements_by_Sign.swift in Sources */,
 			);
@@ -1073,6 +1078,7 @@
 				60F6B00F2B53B01C002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift in Sources */,
 				601C4A852B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift in Sources */,
 				604A36812B79D4DD00DD9C85 /* Easy_0169_Majority_Element_Test.swift in Sources */,
+				60FEC4F02B99464D00914850 /* Easy_0876_Middle_of_the_Linked_List.swift in Sources */,
 				604A36902B7A391D00DD9C85 /* Easy_0704_Binary_Search_Test.swift in Sources */,
 				60B59BC22B5D2F50009A801D /* Medium_0198_House_Robber_Test.swift in Sources */,
 				60FACF312B7DD69E009E9481 /* Medium_0033_Search_in_Rotated_Sorted_Array_Test.swift in Sources */,
