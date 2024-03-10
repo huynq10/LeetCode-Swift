@@ -10,6 +10,8 @@
 		600163502B9C51F0009E0E79 /* Easy_2540_Minimum_Common_Value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6001634F2B9C51F0009E0E79 /* Easy_2540_Minimum_Common_Value.swift */; };
 		600163512B9C51F0009E0E79 /* Easy_2540_Minimum_Common_Value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6001634F2B9C51F0009E0E79 /* Easy_2540_Minimum_Common_Value.swift */; };
 		600163532B9C5382009E0E79 /* Easy_2540_Minimum_Common_Value_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600163522B9C5382009E0E79 /* Easy_2540_Minimum_Common_Value_Test.swift */; };
+		600163552B9D7283009E0E79 /* Easy_0349_Intersection_of_Two_Arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600163542B9D7283009E0E79 /* Easy_0349_Intersection_of_Two_Arrays.swift */; };
+		600163562B9D7283009E0E79 /* Easy_0349_Intersection_of_Two_Arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600163542B9D7283009E0E79 /* Easy_0349_Intersection_of_Two_Arrays.swift */; };
 		60080BB32B6D974D009E8A5E /* Medium_1291_Sequential_Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60080BB22B6D974D009E8A5E /* Medium_1291_Sequential_Digits.swift */; };
 		60080BB42B6D974D009E8A5E /* Medium_1291_Sequential_Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60080BB22B6D974D009E8A5E /* Medium_1291_Sequential_Digits.swift */; };
 		600AAE2C2B9AE75400C3D2FC /* Easy_3005_Count_Elements_With_Maximum_Frequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600AAE2B2B9AE75300C3D2FC /* Easy_3005_Count_Elements_With_Maximum_Frequency.swift */; };
@@ -277,6 +279,7 @@
 /* Begin PBXFileReference section */
 		6001634F2B9C51F0009E0E79 /* Easy_2540_Minimum_Common_Value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_2540_Minimum_Common_Value.swift; sourceTree = "<group>"; };
 		600163522B9C5382009E0E79 /* Easy_2540_Minimum_Common_Value_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_2540_Minimum_Common_Value_Test.swift; sourceTree = "<group>"; };
+		600163542B9D7283009E0E79 /* Easy_0349_Intersection_of_Two_Arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0349_Intersection_of_Two_Arrays.swift; sourceTree = "<group>"; };
 		60080BB22B6D974D009E8A5E /* Medium_1291_Sequential_Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1291_Sequential_Digits.swift; sourceTree = "<group>"; };
 		600AAE2B2B9AE75300C3D2FC /* Easy_3005_Count_Elements_With_Maximum_Frequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_3005_Count_Elements_With_Maximum_Frequency.swift; sourceTree = "<group>"; };
 		600CCF802B556E3B000F2508 /* Medium_2225_Find_Players_With_Zero_or_One_Losses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2225_Find_Players_With_Zero_or_One_Losses.swift; sourceTree = "<group>"; };
@@ -604,6 +607,7 @@
 				60FEC4EE2B99464D00914850 /* Easy_0876_Middle_of_the_Linked_List.swift */,
 				600AAE2B2B9AE75300C3D2FC /* Easy_3005_Count_Elements_With_Maximum_Frequency.swift */,
 				6001634F2B9C51F0009E0E79 /* Easy_2540_Minimum_Common_Value.swift */,
+				600163542B9D7283009E0E79 /* Easy_0349_Intersection_of_Two_Arrays.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -904,6 +908,7 @@
 				601C4A842B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift in Sources */,
 				609794FD2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift in Sources */,
 				60CCBE702B5EBB27003B8551 /* Medium_2870_Minimum_Number_of_Operations_to_Make_Array_Empty.swift in Sources */,
+				600163552B9D7283009E0E79 /* Easy_0349_Intersection_of_Two_Arrays.swift in Sources */,
 				60E7C00C2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift in Sources */,
 				60D2DBA72B8E28C400A34168 /* Easy_0543_Diameter_of_Binary_Tree.swift in Sources */,
 				602877E82B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */,
@@ -1080,6 +1085,7 @@
 				600CCF822B556E3B000F2508 /* Medium_2225_Find_Players_With_Zero_or_One_Losses.swift in Sources */,
 				60FDB5232B4B0D100006BEB9 /* Easy_0027_Remove_Element_Test.swift in Sources */,
 				601AB2DA2B806660001829C5 /* Medium_1642_Furthest_Building_You_Can_Reach.swift in Sources */,
+				600163562B9D7283009E0E79 /* Easy_0349_Intersection_of_Two_Arrays.swift in Sources */,
 				60B88F542B60155400553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters_Test.swift in Sources */,
 				60F6B0132B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift in Sources */,
 				604A367C2B7944AA00DD9C85 /* Medium_0015_3Sum_Test.swift in Sources */,
