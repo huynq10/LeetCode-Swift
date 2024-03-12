@@ -9,24 +9,16 @@ import Foundation
 
 class Medium_0791_Custom_Sort_String {
     func customSortString(_ order: String, _ s: String) -> String {
-        let orderArr = Array(order)
+        var counter = Dictionary(s.map{ ($0, 1) }, uniquingKeysWith: +)
+        var result = ""
         
-        var counter = [Character:Int]()
-        Array(s).forEach {
-            counter[$0, default: 0] += 1
+        for i in Array(order) {
+            result += String(repeating: i, count: counter[i] ?? 0)
+            counter[i] = nil
         }
         
-        var result = String()
-        orderArr.forEach { character in
-            if let freq = counter[character], freq > 0 {
-                result += Array(repeating: character, count: freq)
-                counter.removeValue(forKey: character)
-            }
-        }
-        counter.forEach { (key: Character, value: Int) in
-            if value > 0 {
-                result += Array(repeating: key, count: value)
-            }
+        for (k,v) in counter {
+            result += String(repeating: k, count: v)
         }
         
         return result
