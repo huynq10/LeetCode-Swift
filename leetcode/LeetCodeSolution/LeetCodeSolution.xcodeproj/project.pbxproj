@@ -78,6 +78,7 @@
 		602A9A182B954F91000BB7FC /* Medium_0948_Bag_of_Tokens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602A9A172B954F90000BB7FC /* Medium_0948_Bag_of_Tokens.swift */; };
 		602A9A192B954F91000BB7FC /* Medium_0948_Bag_of_Tokens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602A9A172B954F90000BB7FC /* Medium_0948_Bag_of_Tokens.swift */; };
 		602A9A1B2B95516C000BB7FC /* Medium_0948_Bag_of_Tokens_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602A9A1A2B95516C000BB7FC /* Medium_0948_Bag_of_Tokens_Test.swift */; };
+		60313EF12BA2013F00192C47 /* Easy_2485_Find_the_Pivot_Integer_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60313EF02BA2013F00192C47 /* Easy_2485_Find_the_Pivot_Integer_Test.swift */; };
 		6039534F2B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6039534E2B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift */; };
 		603953502B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6039534E2B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift */; };
 		603953522B712D6F0053F1E3 /* Easy_0387_First_Unique_Character_in_a_String_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 603953512B712D6F0053F1E3 /* Easy_0387_First_Unique_Character_in_a_String_Test.swift */; };
@@ -175,6 +176,8 @@
 		609C6B312B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609C6B302B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift */; };
 		609C6B322B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609C6B302B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift */; };
 		609C6B342B83B0C600CA2E13 /* Easy_0231_Power_of_Two_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609C6B332B83B0C600CA2E13 /* Easy_0231_Power_of_Two_Test.swift */; };
+		609FB0512BA134F8003A6664 /* Easy_2485_Find_the_Pivot_Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609FB0502BA134F8003A6664 /* Easy_2485_Find_the_Pivot_Integer.swift */; };
+		609FB0522BA134F8003A6664 /* Easy_2485_Find_the_Pivot_Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609FB0502BA134F8003A6664 /* Easy_2485_Find_the_Pivot_Integer.swift */; };
 		60A0DA072B85064800D3A93A /* Easy_0268_Missing_Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A0DA062B85064800D3A93A /* Easy_0268_Missing_Number.swift */; };
 		60A0DA082B85064800D3A93A /* Easy_0268_Missing_Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A0DA062B85064800D3A93A /* Easy_0268_Missing_Number.swift */; };
 		60A0DA0A2B8506CD00D3A93A /* Easy_0268_Missing_Number_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A0DA092B8506CD00D3A93A /* Easy_0268_Missing_Number_Test.swift */; };
@@ -335,6 +338,7 @@
 		602A9A152B94D102000BB7FC /* Hard_1074_Number_of_Submatrices_That_Sum_to_Target_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard_1074_Number_of_Submatrices_That_Sum_to_Target_Test.swift; sourceTree = "<group>"; };
 		602A9A172B954F90000BB7FC /* Medium_0948_Bag_of_Tokens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0948_Bag_of_Tokens.swift; sourceTree = "<group>"; };
 		602A9A1A2B95516C000BB7FC /* Medium_0948_Bag_of_Tokens_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0948_Bag_of_Tokens_Test.swift; sourceTree = "<group>"; };
+		60313EF02BA2013F00192C47 /* Easy_2485_Find_the_Pivot_Integer_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_2485_Find_the_Pivot_Integer_Test.swift; sourceTree = "<group>"; };
 		6039534E2B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0387_First_Unique_Character_in_a_String.swift; sourceTree = "<group>"; };
 		603953512B712D6F0053F1E3 /* Easy_0387_First_Unique_Character_in_a_String_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0387_First_Unique_Character_in_a_String_Test.swift; sourceTree = "<group>"; };
 		603AECAE2B6FF3080005286D /* Medium_0075_Sort_Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0075_Sort_Colors.swift; sourceTree = "<group>"; };
@@ -398,6 +402,7 @@
 		6098CC792B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0232_Implement_Queue_using_Stacks.swift; sourceTree = "<group>"; };
 		609C6B302B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0231_Power_of_Two.swift; sourceTree = "<group>"; };
 		609C6B332B83B0C600CA2E13 /* Easy_0231_Power_of_Two_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0231_Power_of_Two_Test.swift; sourceTree = "<group>"; };
+		609FB0502BA134F8003A6664 /* Easy_2485_Find_the_Pivot_Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_2485_Find_the_Pivot_Integer.swift; sourceTree = "<group>"; };
 		60A0DA062B85064800D3A93A /* Easy_0268_Missing_Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0268_Missing_Number.swift; sourceTree = "<group>"; };
 		60A0DA092B8506CD00D3A93A /* Easy_0268_Missing_Number_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0268_Missing_Number_Test.swift; sourceTree = "<group>"; };
 		60A0DA0B2B85845700D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0201_Bitwise_AND_of_Numbers_Range.swift; sourceTree = "<group>"; };
@@ -567,6 +572,7 @@
 				602A9A072B91D0E7000BB7FC /* Easy_2864_Maximum_Odd_Binary_Number_Test.swift */,
 				602A9A0D2B92E916000BB7FC /* Easy_0977_Squares_of_a_Sorted_Array_Test.swift */,
 				600163522B9C5382009E0E79 /* Easy_2540_Minimum_Common_Value_Test.swift */,
+				60313EF02BA2013F00192C47 /* Easy_2485_Find_the_Pivot_Integer_Test.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -616,6 +622,7 @@
 				600AAE2B2B9AE75300C3D2FC /* Easy_3005_Count_Elements_With_Maximum_Frequency.swift */,
 				6001634F2B9C51F0009E0E79 /* Easy_2540_Minimum_Common_Value.swift */,
 				600163542B9D7283009E0E79 /* Easy_0349_Intersection_of_Two_Arrays.swift */,
+				609FB0502BA134F8003A6664 /* Easy_2485_Find_the_Pivot_Integer.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -881,6 +888,7 @@
 				60BA66102B4DB0B0001E5B88 /* Easy_0872_Leaf_Similar_Trees.swift in Sources */,
 				602A9A0B2B92BB27000BB7FC /* Easy_0977_Squares_of_a_Sorted_Array.swift in Sources */,
 				60B59BC42B5D7515009A801D /* Medium_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.swift in Sources */,
+				609FB0512BA134F8003A6664 /* Easy_2485_Find_the_Pivot_Integer.swift in Sources */,
 				60B59BB42B5A94EB009A801D /* Medium_0931_Minimum_Falling_Path_Sum.swift in Sources */,
 				602877AF2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift in Sources */,
 				60B88F502B6011CE00553DDA /* Medium_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.swift in Sources */,
@@ -1011,6 +1019,7 @@
 				6098CC7B2B68067C00735F2C /* Easy_0232_Implement_Queue_using_Stacks.swift in Sources */,
 				601AB2D52B7EF609001829C5 /* Medium_1481_Least_Number_of_Unique_Integers_after_K_Removals.swift in Sources */,
 				60B59BB82B5A9523009A801D /* Medium_0931_Minimum_Falling_Path_Sum_Test.swift in Sources */,
+				609FB0522BA134F8003A6664 /* Easy_2485_Find_the_Pivot_Integer.swift in Sources */,
 				60E7C00D2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift in Sources */,
 				604A36952B7A51E200DD9C85 /* Medium_0074_Search_a_2D_Matrix_Test.swift in Sources */,
 				60B59BBD2B5C3168009A801D /* Medium_0907_Sum_of_Subarray_Minimums_Test.swift in Sources */,
@@ -1055,6 +1064,7 @@
 				604E3E082B7391E900502B29 /* Easy_0242_Valid_Anagram.swift in Sources */,
 				604E3E5E2B772AA000502B29 /* Easy_0125_Valid_Palindrome.swift in Sources */,
 				60FDB5202B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift in Sources */,
+				60313EF12BA2013F00192C47 /* Easy_2485_Find_the_Pivot_Integer_Test.swift in Sources */,
 				604A367F2B79D34A00DD9C85 /* Easy_0169_Majority_Element.swift in Sources */,
 				603AECB22B6FF3330005286D /* Medium_0075_Sort_Colors_Test.swift in Sources */,
 				602A9A112B94207C000BB7FC /* Medium_0019_Remove_Nth_Node_From_End_of_List.swift in Sources */,
