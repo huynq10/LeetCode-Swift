@@ -53,6 +53,9 @@
 		601AB2E82B81F79F001829C5 /* Medium_0739_Daily_Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601AB2E72B81F79F001829C5 /* Medium_0739_Daily_Temperatures.swift */; };
 		601AB2E92B81F79F001829C5 /* Medium_0739_Daily_Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601AB2E72B81F79F001829C5 /* Medium_0739_Daily_Temperatures.swift */; };
 		601AB2EB2B81FC78001829C5 /* Medium_0739_Daily_Temperatures_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601AB2EA2B81FC78001829C5 /* Medium_0739_Daily_Temperatures_Test.swift */; };
+		601B40F02BA34C6D008F8753 /* Medium_0930_Binary_Subarrays_With_Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601B40EF2BA34C6D008F8753 /* Medium_0930_Binary_Subarrays_With_Sum.swift */; };
+		601B40F12BA34C6D008F8753 /* Medium_0930_Binary_Subarrays_With_Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601B40EF2BA34C6D008F8753 /* Medium_0930_Binary_Subarrays_With_Sum.swift */; };
+		601B40F32BA34E90008F8753 /* Medium_0930_Binary_Subarrays_With_Sum_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601B40F22BA34E90008F8753 /* Medium_0930_Binary_Subarrays_With_Sum_Test.swift */; };
 		601C4A812B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 601C4A802B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift */; };
 		601C4A822B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 601C4A802B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift */; };
 		601C4A842B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601C4A832B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift */; };
@@ -322,6 +325,8 @@
 		601AB2E52B80EDCC001829C5 /* Easy_0121_Best_Time_to_Buy_and_Sell_Stock_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0121_Best_Time_to_Buy_and_Sell_Stock_Test.swift; sourceTree = "<group>"; };
 		601AB2E72B81F79F001829C5 /* Medium_0739_Daily_Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0739_Daily_Temperatures.swift; sourceTree = "<group>"; };
 		601AB2EA2B81FC78001829C5 /* Medium_0739_Daily_Temperatures_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0739_Daily_Temperatures_Test.swift; sourceTree = "<group>"; };
+		601B40EF2BA34C6D008F8753 /* Medium_0930_Binary_Subarrays_With_Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0930_Binary_Subarrays_With_Sum.swift; sourceTree = "<group>"; };
+		601B40F22BA34E90008F8753 /* Medium_0930_Binary_Subarrays_With_Sum_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0930_Binary_Subarrays_With_Sum_Test.swift; sourceTree = "<group>"; };
 		601C4A802B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Medium_0380_Insert_Delete_GetRandom_O(1).swift"; sourceTree = "<group>"; };
 		601C4A832B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_1207_Unique_Number_of_Occurrences.swift; sourceTree = "<group>"; };
 		601C4A862B57580200A5E210 /* Easy_1207_Unique_Number_of_Occurrences_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_1207_Unique_Number_of_Occurrences_Test.swift; sourceTree = "<group>"; };
@@ -702,6 +707,7 @@
 				6084497B2B9780F600091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.swift */,
 				60E16CA02B9F58FA0004F72D /* Medium_0791_Custom_Sort_String.swift */,
 				60E16CA52B9FE09A0004F72D /* Medium_1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.swift */,
+				601B40EF2BA34C6D008F8753 /* Medium_0930_Binary_Subarrays_With_Sum.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -750,6 +756,7 @@
 				602A9A1A2B95516C000BB7FC /* Medium_0948_Bag_of_Tokens_Test.swift */,
 				6084497E2B9783A300091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_Test.swift */,
 				60E16CA32B9F5ABF0004F72D /* Medium_0791_Custom_Sort_String_Test.swift */,
+				601B40F22BA34E90008F8753 /* Medium_0930_Binary_Subarrays_With_Sum_Test.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -903,6 +910,7 @@
 				609C6B312B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift in Sources */,
 				602A9A052B91CF41000BB7FC /* Easy_2864_Maximum_Odd_Binary_Number.swift in Sources */,
 				600E93302B69623B003163AE /* Medium_0150_Evaluate_Reverse_Polish_Notation.swift in Sources */,
+				601B40F02BA34C6D008F8753 /* Medium_0930_Binary_Subarrays_With_Sum.swift in Sources */,
 				60FACF292B7D1EF4009E9481 /* Medium_0033_Search_in_Rotated_Sorted_Array.swift in Sources */,
 				601C4A812B56C4F500A5E210 /* Medium_0380_Insert_Delete_GetRandom_O(1).swift in Sources */,
 				604A36972B7A8E3600DD9C85 /* Medium_0875_Koko_Eating_Bananas.swift in Sources */,
@@ -1044,6 +1052,7 @@
 				609794FE2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift in Sources */,
 				60FACF2A2B7D1EF4009E9481 /* Medium_0033_Search_in_Rotated_Sorted_Array.swift in Sources */,
 				603953502B7128C20053F1E3 /* Easy_0387_First_Unique_Character_in_a_String.swift in Sources */,
+				601B40F12BA34C6D008F8753 /* Medium_0930_Binary_Subarrays_With_Sum.swift in Sources */,
 				6013D35E2B446A660086DDD5 /* Easy_0001_Two_Sum.swift in Sources */,
 				604E3E172B75F46B00502B29 /* Medium_0368_Largest_Divisible_Subset.swift in Sources */,
 				604E3DFE2B734B6F00502B29 /* Medium_0451_Sort_Characters_By_Frequency .swift in Sources */,
@@ -1125,6 +1134,7 @@
 				604E3E0F2B73984B00502B29 /* Medium_0347_Top_K_Frequent_Elements_Test.swift in Sources */,
 				60F6B00F2B53B01C002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift in Sources */,
 				601C4A852B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift in Sources */,
+				601B40F32BA34E90008F8753 /* Medium_0930_Binary_Subarrays_With_Sum_Test.swift in Sources */,
 				604A36812B79D4DD00DD9C85 /* Easy_0169_Majority_Element_Test.swift in Sources */,
 				60FEC4F02B99464D00914850 /* Easy_0876_Middle_of_the_Linked_List.swift in Sources */,
 				604A36902B7A391D00DD9C85 /* Easy_0704_Binary_Search_Test.swift in Sources */,
