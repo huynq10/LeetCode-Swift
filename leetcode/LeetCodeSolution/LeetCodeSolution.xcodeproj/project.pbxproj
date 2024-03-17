@@ -63,6 +63,8 @@
 		601C4A872B57580200A5E210 /* Easy_1207_Unique_Number_of_Occurrences_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601C4A862B57580200A5E210 /* Easy_1207_Unique_Number_of_Occurrences_Test.swift */; };
 		6026CCD42BA5FD0A00325F71 /* Medium_0525_Contiguous_Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6026CCD32BA5FD0A00325F71 /* Medium_0525_Contiguous_Array.swift */; };
 		6026CCD52BA5FD0A00325F71 /* Medium_0525_Contiguous_Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6026CCD32BA5FD0A00325F71 /* Medium_0525_Contiguous_Array.swift */; };
+		6026CCD72BA74A1E00325F71 /* Medium_0057_Insert_Interval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6026CCD62BA74A1E00325F71 /* Medium_0057_Insert_Interval.swift */; };
+		6026CCD82BA74A1E00325F71 /* Medium_0057_Insert_Interval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6026CCD62BA74A1E00325F71 /* Medium_0057_Insert_Interval.swift */; };
 		602877AF2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877AE2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift */; };
 		602877B12B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877B02B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift */; };
 		602877B22B45B5A6005457FE /* Easy_0009_Palindrome_Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602877AE2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift */; };
@@ -333,6 +335,7 @@
 		601C4A832B57571300A5E210 /* Easy_1207_Unique_Number_of_Occurrences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_1207_Unique_Number_of_Occurrences.swift; sourceTree = "<group>"; };
 		601C4A862B57580200A5E210 /* Easy_1207_Unique_Number_of_Occurrences_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_1207_Unique_Number_of_Occurrences_Test.swift; sourceTree = "<group>"; };
 		6026CCD32BA5FD0A00325F71 /* Medium_0525_Contiguous_Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0525_Contiguous_Array.swift; sourceTree = "<group>"; };
+		6026CCD62BA74A1E00325F71 /* Medium_0057_Insert_Interval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0057_Insert_Interval.swift; sourceTree = "<group>"; };
 		602877AE2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0009_Palindrome_Number.swift; sourceTree = "<group>"; };
 		602877B02B45B529005457FE /* Easy_0009_Palindrome_Number_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0009_Palindrome_Number_Test.swift; sourceTree = "<group>"; };
 		602877E72B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0013_Roman_To_Integer.swift; sourceTree = "<group>"; };
@@ -712,6 +715,7 @@
 				60E16CA52B9FE09A0004F72D /* Medium_1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.swift */,
 				601B40EF2BA34C6D008F8753 /* Medium_0930_Binary_Subarrays_With_Sum.swift */,
 				6026CCD32BA5FD0A00325F71 /* Medium_0525_Contiguous_Array.swift */,
+				6026CCD62BA74A1E00325F71 /* Medium_0057_Insert_Interval.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -952,6 +956,7 @@
 				604A36922B7A3ADA00DD9C85 /* Medium_0074_Search_a_2D_Matrix.swift in Sources */,
 				601AB2DE2B80E32D001829C5 /* Medium_2966_Divide_Array_Into_Arrays_With_Max_Difference.swift in Sources */,
 				60F6B0122B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift in Sources */,
+				6026CCD72BA74A1E00325F71 /* Medium_0057_Insert_Interval.swift in Sources */,
 				604A36742B79270F00DD9C85 /* Medium_0167_Two_Sum_II_Input_Array_Is_Sorted.swift in Sources */,
 				6013D35D2B4469F70086DDD5 /* Easy_0001_Two_Sum.swift in Sources */,
 				6026CCD42BA5FD0A00325F71 /* Medium_0525_Contiguous_Array.swift in Sources */,
@@ -1033,6 +1038,7 @@
 				601AB2D52B7EF609001829C5 /* Medium_1481_Least_Number_of_Unique_Integers_after_K_Removals.swift in Sources */,
 				60B59BB82B5A9523009A801D /* Medium_0931_Minimum_Falling_Path_Sum_Test.swift in Sources */,
 				609FB0522BA134F8003A6664 /* Easy_2485_Find_the_Pivot_Integer.swift in Sources */,
+				6026CCD82BA74A1E00325F71 /* Medium_0057_Insert_Interval.swift in Sources */,
 				60E7C00D2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift in Sources */,
 				604A36952B7A51E200DD9C85 /* Medium_0074_Search_a_2D_Matrix_Test.swift in Sources */,
 				60B59BBD2B5C3168009A801D /* Medium_0907_Sum_of_Subarray_Minimums_Test.swift in Sources */,
