@@ -252,6 +252,8 @@
 		60E7C00F2B90D17B00895AC1 /* Medium_1609_Even_Odd_Tree_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E7C00E2B90D17B00895AC1 /* Medium_1609_Even_Odd_Tree_Test.swift */; };
 		60EA41FE2BA89A4B00F1F61B /* Medium_452_Minimum_Number_of_Arrows_to_Burst_Balloons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60EA41FD2BA89A4B00F1F61B /* Medium_452_Minimum_Number_of_Arrows_to_Burst_Balloons.swift */; };
 		60EA41FF2BA89A4B00F1F61B /* Medium_452_Minimum_Number_of_Arrows_to_Burst_Balloons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60EA41FD2BA89A4B00F1F61B /* Medium_452_Minimum_Number_of_Arrows_to_Burst_Balloons.swift */; };
+		60EC32792BAB4B3D003478E9 /* Medium_1669_Merge_In_Between_Linked_Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60EC32782BAB4B3D003478E9 /* Medium_1669_Merge_In_Between_Linked_Lists.swift */; };
+		60EC327A2BAB4B3D003478E9 /* Medium_1669_Merge_In_Between_Linked_Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60EC32782BAB4B3D003478E9 /* Medium_1669_Merge_In_Between_Linked_Lists.swift */; };
 		60F6B00D2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F6B00C2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift */; };
 		60F6B00F2B53B01C002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F6B00E2B53B01B002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift */; };
 		60F6B0102B53B044002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F6B00C2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift */; };
@@ -462,6 +464,7 @@
 		60E7C00B2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1609_Even_Odd_Tree.swift; sourceTree = "<group>"; };
 		60E7C00E2B90D17B00895AC1 /* Medium_1609_Even_Odd_Tree_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1609_Even_Odd_Tree_Test.swift; sourceTree = "<group>"; };
 		60EA41FD2BA89A4B00F1F61B /* Medium_452_Minimum_Number_of_Arrows_to_Burst_Balloons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_452_Minimum_Number_of_Arrows_to_Burst_Balloons.swift; sourceTree = "<group>"; };
+		60EC32782BAB4B3D003478E9 /* Medium_1669_Merge_In_Between_Linked_Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1669_Merge_In_Between_Linked_Lists.swift; sourceTree = "<group>"; };
 		60F6B00C2B53AC6D002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1657_Determine_if_Two_Strings_Are_Close.swift; sourceTree = "<group>"; };
 		60F6B00E2B53B01B002500B6 /* Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1657_Determine_if_Two_Strings_Are_Close_Test.swift; sourceTree = "<group>"; };
 		60F6B0112B53BF19002500B6 /* Easy_0455_Assign_Cookies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0455_Assign_Cookies.swift; sourceTree = "<group>"; };
@@ -726,6 +729,7 @@
 				6026CCD62BA74A1E00325F71 /* Medium_0057_Insert_Interval.swift */,
 				60EA41FD2BA89A4B00F1F61B /* Medium_452_Minimum_Number_of_Arrows_to_Burst_Balloons.swift */,
 				60FAE9612BA9DBF9002DEDCD /* Medium_0621_Task_Scheduler.swift */,
+				60EC32782BAB4B3D003478E9 /* Medium_1669_Merge_In_Between_Linked_Lists.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -959,6 +963,7 @@
 				60E7C00C2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift in Sources */,
 				60FAE9622BA9DBF9002DEDCD /* Medium_0621_Task_Scheduler.swift in Sources */,
 				60E16CA12B9F58FA0004F72D /* Medium_0791_Custom_Sort_String.swift in Sources */,
+				60EC32792BAB4B3D003478E9 /* Medium_1669_Merge_In_Between_Linked_Lists.swift in Sources */,
 				60D2DBA72B8E28C400A34168 /* Easy_0543_Diameter_of_Binary_Tree.swift in Sources */,
 				602877E82B4711C8005457FE /* Easy_0013_Roman_To_Integer.swift in Sources */,
 				600DABF62B5037FB00911CD9 /* Medium_1026_Maximum_Difference_Between_Node_and_Ancestor.swift in Sources */,
@@ -1054,6 +1059,7 @@
 				6026CCD82BA74A1E00325F71 /* Medium_0057_Insert_Interval.swift in Sources */,
 				60E7C00D2B90C83D00895AC1 /* Medium_1609_Even_Odd_Tree.swift in Sources */,
 				604A36952B7A51E200DD9C85 /* Medium_0074_Search_a_2D_Matrix_Test.swift in Sources */,
+				60EC327A2BAB4B3D003478E9 /* Medium_1669_Merge_In_Between_Linked_Lists.swift in Sources */,
 				60B59BBD2B5C3168009A801D /* Medium_0907_Sum_of_Subarray_Minimums_Test.swift in Sources */,
 				60A0DA0F2B8584B900D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range_Test.swift in Sources */,
 				602A9A162B94D102000BB7FC /* Hard_1074_Number_of_Submatrices_That_Sum_to_Target_Test.swift in Sources */,
