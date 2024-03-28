@@ -174,6 +174,9 @@
 		6094B63F2B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6094B63E2B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift */; };
 		6094B6402B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6094B63E2B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift */; };
 		6094B6422B8784DD000ED6A0 /* Easy_0997_Find_the_Town_Judge_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6094B6412B8784DD000ED6A0 /* Easy_0997_Find_the_Town_Judge_Test.swift */; };
+		60971DC12BB5C3CF00CB021B /* Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60971DC02BB5C3CF00CB021B /* Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.swift */; };
+		60971DC22BB5C3CF00CB021B /* Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60971DC02BB5C3CF00CB021B /* Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.swift */; };
+		60971DC42BB5C75D00CB021B /* Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60971DC32BB5C75D00CB021B /* Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency_Test.swift */; };
 		609794FD2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609794FC2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift */; };
 		609794FE2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609794FC2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift */; };
 		609795002B88B34D006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609794FF2B88B34D006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops_Test.swift */; };
@@ -427,6 +430,8 @@
 		6084497E2B9783A300091DFD /* Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_Test.swift; sourceTree = "<group>"; };
 		6094B63E2B87830D000ED6A0 /* Easy_0997_Find_the_Town_Judge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0997_Find_the_Town_Judge.swift; sourceTree = "<group>"; };
 		6094B6412B8784DD000ED6A0 /* Easy_0997_Find_the_Town_Judge_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0997_Find_the_Town_Judge_Test.swift; sourceTree = "<group>"; };
+		60971DC02BB5C3CF00CB021B /* Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.swift; sourceTree = "<group>"; };
+		60971DC32BB5C75D00CB021B /* Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency_Test.swift; sourceTree = "<group>"; };
 		609794FC2B88B30C006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0787_Cheapest_Flights_Within_K_Stops.swift; sourceTree = "<group>"; };
 		609794FF2B88B34D006A8B95 /* Medium_0787_Cheapest_Flights_Within_K_Stops_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0787_Cheapest_Flights_Within_K_Stops_Test.swift; sourceTree = "<group>"; };
 		609795012B8A096D006A8B95 /* Hard_2092_Find_All_People_With_Secret.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard_2092_Find_All_People_With_Secret.swift; sourceTree = "<group>"; };
@@ -757,6 +762,7 @@
 				60EC32782BAB4B3D003478E9 /* Medium_1669_Merge_In_Between_Linked_Lists.swift */,
 				6026311A2BB1D29D0027BC7B /* Medium_0442_Find_All_Duplicates_in_an_Array.swift */,
 				60BAE89D2BB4792900BBDE16 /* Medium_0713_Subarray_Product_Less_Than_K.swift */,
+				60971DC02BB5C3CF00CB021B /* Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -808,6 +814,7 @@
 				601B40F22BA34E90008F8753 /* Medium_0930_Binary_Subarrays_With_Sum_Test.swift */,
 				60FAE9642BA9E95E002DEDCD /* Medium_0621_Task_Scheduler_Test.swift */,
 				60BAE8A02BB47C0A00BBDE16 /* Medium_0713_Subarray_Product_Less_Than_K_Test.swift */,
+				60971DC32BB5C75D00CB021B /* Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency_Test.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -947,6 +954,7 @@
 				602A9A0B2B92BB27000BB7FC /* Easy_0977_Squares_of_a_Sorted_Array.swift in Sources */,
 				60B59BC42B5D7515009A801D /* Medium_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.swift in Sources */,
 				609FB0512BA134F8003A6664 /* Easy_2485_Find_the_Pivot_Integer.swift in Sources */,
+				60971DC12BB5C3CF00CB021B /* Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.swift in Sources */,
 				60BAE89E2BB4792900BBDE16 /* Medium_0713_Subarray_Product_Less_Than_K.swift in Sources */,
 				60B59BB42B5A94EB009A801D /* Medium_0931_Minimum_Falling_Path_Sum.swift in Sources */,
 				602877AF2B45B49B005457FE /* Easy_0009_Palindrome_Number.swift in Sources */,
@@ -1130,6 +1138,7 @@
 				60FACF272B7D19E3009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array_Test.swift in Sources */,
 				6013D3572B4468780086DDD5 /* Easy_0001_Two_Sum_Test.swift in Sources */,
 				60B59BC52B5D7515009A801D /* Medium_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.swift in Sources */,
+				60971DC22BB5C3CF00CB021B /* Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.swift in Sources */,
 				609C6B322B83B0AB00CA2E13 /* Easy_0231_Power_of_Two.swift in Sources */,
 				60A8EB1F2B49B9CB0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array_Test.swift in Sources */,
 				6026CCD52BA5FD0A00325F71 /* Medium_0525_Contiguous_Array.swift in Sources */,
@@ -1162,6 +1171,7 @@
 				60BA66142B4DB32F001E5B88 /* Easy_0872_Leaf_Similar_Trees_Test.swift in Sources */,
 				604E3E612B7755C500502B29 /* Medium_0647_Palindromic_Substrings.swift in Sources */,
 				601C4A872B57580200A5E210 /* Easy_1207_Unique_Number_of_Occurrences_Test.swift in Sources */,
+				60971DC42BB5C75D00CB021B /* Medium_2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency_Test.swift in Sources */,
 				60B59BC72B5D766F009A801D /* Medium_2610_Convert_an_Array_Into_a_2D_Array_With_Conditions_Test.swift in Sources */,
 				600163512B9C51F0009E0E79 /* Easy_2540_Minimum_Common_Value.swift in Sources */,
 				604A368E2B7A37F900DD9C85 /* Easy_0704_Binary_Search.swift in Sources */,
