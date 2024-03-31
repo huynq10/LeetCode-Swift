@@ -200,6 +200,9 @@
 		60A0DA0C2B85845700D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A0DA0B2B85845700D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range.swift */; };
 		60A0DA0D2B85845700D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A0DA0B2B85845700D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range.swift */; };
 		60A0DA0F2B8584B900D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A0DA0E2B8584B900D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range_Test.swift */; };
+		60A3FD602BB8405900B4FAA3 /* Hard_0992_Subarrays_with_K_Different_Integers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A3FD5F2BB8405900B4FAA3 /* Hard_0992_Subarrays_with_K_Different_Integers.swift */; };
+		60A3FD612BB8405900B4FAA3 /* Hard_0992_Subarrays_with_K_Different_Integers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A3FD5F2BB8405900B4FAA3 /* Hard_0992_Subarrays_with_K_Different_Integers.swift */; };
+		60A3FD632BB8435F00B4FAA3 /* Hard_0992_Subarrays_with_K_Different_Integers_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A3FD622BB8435F00B4FAA3 /* Hard_0992_Subarrays_with_K_Different_Integers_Test.swift */; };
 		60A4FFAA2B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4FFA92B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift */; };
 		60A4FFAB2B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4FFA92B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift */; };
 		60A4FFAE2B4C5C2C00A2C56E /* Easy_0070_Climbing_Stairs_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4FFAC2B4C5C2C00A2C56E /* Easy_0070_Climbing_Stairs_Test.swift */; };
@@ -446,6 +449,8 @@
 		60A0DA092B8506CD00D3A93A /* Easy_0268_Missing_Number_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0268_Missing_Number_Test.swift; sourceTree = "<group>"; };
 		60A0DA0B2B85845700D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0201_Bitwise_AND_of_Numbers_Range.swift; sourceTree = "<group>"; };
 		60A0DA0E2B8584B900D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_0201_Bitwise_AND_of_Numbers_Range_Test.swift; sourceTree = "<group>"; };
+		60A3FD5F2BB8405900B4FAA3 /* Hard_0992_Subarrays_with_K_Different_Integers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard_0992_Subarrays_with_K_Different_Integers.swift; sourceTree = "<group>"; };
+		60A3FD622BB8435F00B4FAA3 /* Hard_0992_Subarrays_with_K_Different_Integers_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hard_0992_Subarrays_with_K_Different_Integers_Test.swift; sourceTree = "<group>"; };
 		60A4FFA92B4C5A3700A2C56E /* Easy_0070_Climbing_Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0070_Climbing_Stairs.swift; sourceTree = "<group>"; };
 		60A4FFAC2B4C5C2C00A2C56E /* Easy_0070_Climbing_Stairs_Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0070_Climbing_Stairs_Test.swift; sourceTree = "<group>"; };
 		60A8EB1B2B49B96A0015C254 /* Easy_0026_Remove_Duplicates_From_Sorted_Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_0026_Remove_Duplicates_From_Sorted_Array.swift; sourceTree = "<group>"; };
@@ -685,6 +690,7 @@
 				609795042B8A2D5B006A8B95 /* Hard_2092_Find_All_People_With_Secret_Test.swift */,
 				602A9A152B94D102000BB7FC /* Hard_1074_Number_of_Submatrices_That_Sum_to_Target_Test.swift */,
 				60C77C092BB2ABEB00ED0890 /* Hard_0041_First_Missing_Positive_Test.swift */,
+				60A3FD622BB8435F00B4FAA3 /* Hard_0992_Subarrays_with_K_Different_Integers_Test.swift */,
 			);
 			path = Hard;
 			sourceTree = "<group>";
@@ -699,6 +705,7 @@
 				609795062B8B973E006A8B95 /* Hard_2709_Greatest_Common_Divisor_Traversal.swift */,
 				602A9A122B94CC0C000BB7FC /* Hard_1074_Number_of_Submatrices_That_Sum_to_Target.swift */,
 				60C77C062BB2A75E00ED0890 /* Hard_0041_First_Missing_Positive.swift */,
+				60A3FD5F2BB8405900B4FAA3 /* Hard_0992_Subarrays_with_K_Different_Integers.swift */,
 			);
 			path = Hard;
 			sourceTree = "<group>";
@@ -1054,6 +1061,7 @@
 				60FEC4EF2B99464D00914850 /* Easy_0876_Middle_of_the_Linked_List.swift in Sources */,
 				60FDB51F2B4B0CEB0006BEB9 /* Easy_0027_Remove_Element.swift in Sources */,
 				604A36A52B7CBDA800DD9C85 /* Medium_2149_Rearrange_Array_Elements_by_Sign.swift in Sources */,
+				60A3FD602BB8405900B4FAA3 /* Hard_0992_Subarrays_with_K_Different_Integers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1119,6 +1127,7 @@
 				60BD83872B51612C00991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike_Test.swift in Sources */,
 				60BD838A2B521BDE00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.swift in Sources */,
 				602877EA2B47128B005457FE /* Easy_0013_Roman_To_Integer_Test.swift in Sources */,
+				60A3FD632BB8435F00B4FAA3 /* Hard_0992_Subarrays_with_K_Different_Integers_Test.swift in Sources */,
 				604A36722B78E76900DD9C85 /* Hard_1463_Cherry_Pickup_II_Test.swift in Sources */,
 				60A0DA0D2B85845700D3A93A /* Medium_0201_Bitwise_AND_of_Numbers_Range.swift in Sources */,
 				60BD838C2B521F7A00991633 /* Medium_1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_Test.swift in Sources */,
@@ -1226,6 +1235,7 @@
 				602A9A1B2B95516C000BB7FC /* Medium_0948_Bag_of_Tokens_Test.swift in Sources */,
 				60BD83852B515F6600991633 /* Easy_1704_Determine_if_String_Halves_Are_Alike.swift in Sources */,
 				60FACF252B7D18EC009E9481 /* Medium_0153_Find_Minimum_in_Rotated_Sorted_Array.swift in Sources */,
+				60A3FD612BB8405900B4FAA3 /* Hard_0992_Subarrays_with_K_Different_Integers.swift in Sources */,
 				600DABF72B5037FB00911CD9 /* Medium_1026_Maximum_Difference_Between_Node_and_Ancestor.swift in Sources */,
 				60FAE9632BA9DBF9002DEDCD /* Medium_0621_Task_Scheduler.swift in Sources */,
 				60C77C082BB2A75E00ED0890 /* Hard_0041_First_Missing_Positive.swift in Sources */,
