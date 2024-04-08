@@ -65,6 +65,36 @@
                   endingLineNumber = "15"
                   offsetFromSymbolStart = "164">
                </Location>
+               <Location
+                  uuid = "E76EE73A-50C6-464E-9512-A179BC5D1963 - f5393a3b53588468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCodeSolution.Hard_2444_Count_Subarrays_With_Fixed_Bounds.countSubarrays(Swift.Array&lt;Swift.Int&gt;, Swift.Int, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "LeetCodeSolution"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lap14556-local/Development/Sources/LeetCode-Swift/LeetCode-Swift/leetcode/LeetCodeSolution/LeetCodeSolution/Hard/Hard_2444_Count_Subarrays_With_Fixed_Bounds.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "E76EE73A-50C6-464E-9512-A179BC5D1963 - c2ff86539a78ed23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCodeSolutionTests.Hard_2444_Count_Subarrays_With_Fixed_Bounds.countSubarrays(Swift.Array&lt;Swift.Int&gt;, Swift.Int, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "LeetCodeSolutionTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lap14556-local/Development/Sources/LeetCode-Swift/LeetCode-Swift/leetcode/LeetCodeSolution/LeetCodeSolution/Hard/Hard_2444_Count_Subarrays_With_Fixed_Bounds.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "228">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
